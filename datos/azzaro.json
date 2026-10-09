@@ -1,0 +1,186 @@
+{
+  "marca": "Azzaro",
+  "tipo": "Diseñador",
+  "estilo": "Fougères de barbería clásicos y masculinos modernos, dulces y cálidos.",
+  "perfumes": [
+    {
+      "nombre": "Azzaro Pour Homme",
+      "anio": 1978,
+      "genero": "masculino",
+      "familia": "Fougère",
+      "notas": {
+        "salida": [
+          "lavanda",
+          "anís",
+          "bergamota",
+          "limón",
+          "albahaca"
+        ],
+        "corazon": [
+          "geranio",
+          "vetiver",
+          "cardamomo",
+          "enebro"
+        ],
+        "fondo": [
+          "musgo de roble",
+          "cuero",
+          "haba tonka",
+          "pachulí"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "primavera",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Huele a barbería de antes: lavanda y anís aromáticos sobre un fondo de musgo y cuero suave, muy limpio y varonil. Rinde mejor en primavera y otoño, para el día a día y la oficina. Comparte el espíritu de Paco Rabanne Pour Homme y de los fougères clásicos de los ochenta.",
+      "marca": "Azzaro"
+    },
+    {
+      "nombre": "Chrome",
+      "anio": 1996,
+      "genero": "masculino",
+      "familia": "Cítrica",
+      "notas": {
+        "salida": [
+          "bergamota",
+          "limón",
+          "romero",
+          "neroli"
+        ],
+        "corazon": [
+          "notas acuáticas",
+          "cilantro",
+          "jazmín"
+        ],
+        "fondo": [
+          "almizcle",
+          "musgo de roble",
+          "cedro",
+          "sándalo"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Una frescura cítrica y acuática, con sensación de camisa recién planchada y piel limpia. Ideal para el calor, el gimnasio o la oficina, cuando se busca algo discreto y agradable. Se mueve en la misma línea que Acqua di Giò y L'Eau d'Issey pour Homme, aunque más ligero.",
+      "marca": "Azzaro"
+    },
+    {
+      "nombre": "The Most Wanted",
+      "anio": 2021,
+      "genero": "masculino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "cardamomo"
+        ],
+        "corazon": [
+          "caramelo"
+        ],
+        "fondo": [
+          "madera ambarada"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "EDP Intense",
+        "Parfum"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Un dulce de caramelo tostado con cardamomo y una base ambarada muy sensual y de buena estela. Brilla en noches frías, fiestas y citas; en verano puede resultar pesado. Pariente cercano de Le Male Le Parfum y de 1 Million en su faceta dulce.",
+      "marca": "Azzaro"
+    },
+    {
+      "nombre": "Wanted",
+      "anio": 2016,
+      "genero": "masculino",
+      "familia": "Especiada",
+      "notas": {
+        "salida": [
+          "limón",
+          "jengibre",
+          "menta"
+        ],
+        "corazon": [
+          "cardamomo",
+          "enebro"
+        ],
+        "fondo": [
+          "haba tonka",
+          "vetiver",
+          "ámbar"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "primavera",
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Abre con un chispazo de jengibre y limón que pronto se vuelve especiado y ambarado, con un fondo cálido de haba tonka. Muy versátil: funciona de día en entretiempo y de noche en invierno. Recuerda en espíritu a Boss Bottled y a Bleu de Chanel en su faceta más especiada.",
+      "marca": "Azzaro"
+    },
+    {
+      "nombre": "Wanted by Night",
+      "anio": 2018,
+      "genero": "masculino",
+      "familia": "Especiada",
+      "notas": {
+        "salida": [
+          "canela",
+          "mandarina roja"
+        ],
+        "corazon": [
+          "cedro"
+        ],
+        "fondo": [
+          "tabaco"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Canela y mandarina sobre un fondo de tabaco y cedro: un perfume cálido, ligeramente dulce y envolvente. Pensado para noches de otoño e invierno, salidas y citas. Cercano a Spicebomb de Viktor&Rolf y, por su toque de tabaco, a Herod de Parfums de Marly.",
+      "marca": "Azzaro"
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "marca": "Yves Saint Laurent",
+  "tipo": "Diseñador",
+  "estilo": "Rebeldía chic parisina: la cara más joven, nocturna y audaz del lujo francés.",
+  "perfumes": [
+    {
+      "nombre": "Black Opium",
+      "anio": 2014,
+      "genero": "femenino",
+      "familia": "Gourmand",
+      "notas": {
+        "salida": [
+          "pera",
+          "pimienta rosa",
+          "azahar"
+        ],
+        "corazon": [
+          "café",
+          "jazmín"
+        ],
+        "fondo": [
+          "vainilla",
+          "pachulí",
+          "cedro"
+        ]
+      },
+      "concentraciones": [
+        "EDP",
+        "Intense",
+        "Le Parfum"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Café, vainilla y flores blancas: dulce, nocturno y adictivo. Ideal para citas y noches frías. Comparte estilo con Good Girl y The Only One.",
+      "marca": "Yves Saint Laurent"
+    },
+    {
+      "nombre": "Kouros",
+      "anio": 1981,
+      "genero": "masculino",
+      "familia": "Fougère",
+      "notas": {
+        "salida": [
+          "aldehídos",
+          "artemisa",
+          "cilantro",
+          "bergamota"
+        ],
+        "corazon": [
+          "clavel",
+          "canela",
+          "pachulí",
+          "geranio"
+        ],
+        "fondo": [
+          "cuero",
+          "ámbar",
+          "almizcle",
+          "miel",
+          "incienso"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche"
+      ],
+      "descripcion": "Un fougère animal, jabonoso y especiado, muy intenso y de otra época. Ideal para noches frías. Comparte estilo con Azzaro Pour Homme y Paco Rabanne Pour Homme, más atrevido.",
+      "marca": "Yves Saint Laurent"
+    },
+    {
+      "nombre": "L'Homme",
+      "anio": 2006,
+      "genero": "masculino",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "jengibre",
+          "bergamota",
+          "limón"
+        ],
+        "corazon": [
+          "hoja de violeta",
+          "albahaca",
+          "pimienta blanca"
+        ],
+        "fondo": [
+          "haba tonka",
+          "cedro",
+          "vetiver"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Jengibre, violeta y maderas suaves: limpio, elegante y discreto. Ideal para la oficina. Comparte estilo con Bvlgari pour Homme y L'Homme Prada.",
+      "marca": "Yves Saint Laurent"
+    },
+    {
+      "nombre": "La Nuit de L'Homme",
+      "anio": 2009,
+      "genero": "masculino",
+      "familia": "Especiada",
+      "notas": {
+        "salida": [
+          "cardamomo"
+        ],
+        "corazon": [
+          "lavanda",
+          "cedro",
+          "bergamota"
+        ],
+        "fondo": [
+          "vetiver",
+          "alcaravea"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Cardamomo y lavanda sobre cedro: suave, especiado y muy seductor. Ideal para citas en otoño e invierno. Comparte estilo con Armani Code y Boss The Scent.",
+      "marca": "Yves Saint Laurent"
+    },
+    {
+      "nombre": "Libre",
+      "anio": 2019,
+      "genero": "femenino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "lavanda",
+          "mandarina",
+          "petitgrain"
+        ],
+        "corazon": [
+          "lavanda",
+          "azahar",
+          "jazmín"
+        ],
+        "fondo": [
+          "vainilla",
+          "almizcle",
+          "cedro",
+          "ámbar gris"
+        ]
+      },
+      "concentraciones": [
+        "EDP",
+        "Intense",
+        "Le Parfum"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina",
+        "citas"
+      ],
+      "descripcion": "Lavanda aromática con azahar y vainilla: elegante, segura y moderna. Ideal para todo el año. Comparte estilo con Mon Guerlain y Burberry Goddess.",
+      "marca": "Yves Saint Laurent"
+    },
+    {
+      "nombre": "Mon Paris",
+      "anio": 2016,
+      "genero": "femenino",
+      "familia": "Chipre",
+      "notas": {
+        "salida": [
+          "fresa",
+          "frambuesa",
+          "pera",
+          "bergamota"
+        ],
+        "corazon": [
+          "jazmín",
+          "peonía"
+        ],
+        "fondo": [
+          "pachulí",
+          "almizcle blanco",
+          "vainilla"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Fresa y frambuesa sobre pachulí: dulce, romántico y juvenil. Ideal para citas en primavera y otoño. Comparte estilo con Burberry Her y Coco Mademoiselle.",
+      "marca": "Yves Saint Laurent"
+    },
+    {
+      "nombre": "MYSLF",
+      "anio": 2023,
+      "genero": "masculino",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "bergamota"
+        ],
+        "corazon": [
+          "azahar"
+        ],
+        "fondo": [
+          "pachulí",
+          "maderas"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Azahar luminoso y bergamota sobre maderas: limpio, floral y moderno. Ideal para el día y la oficina. Comparte estilo con Bleu de Chanel y Y.",
+      "marca": "Yves Saint Laurent"
+    },
+    {
+      "nombre": "Opium",
+      "anio": 1977,
+      "genero": "femenino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "mandarina",
+          "clavo",
+          "pimienta"
+        ],
+        "corazon": [
+          "rosa",
+          "jazmín",
+          "clavel"
+        ],
+        "fondo": [
+          "mirra",
+          "incienso",
+          "vainilla",
+          "pachulí"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche",
+        "eventos formales"
+      ],
+      "descripcion": "Especias, resinas e incienso: opulento, profundo y dramático. Ideal para eventos formales y noches de invierno. Comparte estilo con Shalimar y Ange ou Démon.",
+      "marca": "Yves Saint Laurent"
+    },
+    {
+      "nombre": "Y",
+      "anio": 2018,
+      "genero": "masculino",
+      "familia": "Aromática",
+      "notas": {
+        "salida": [
+          "manzana",
+          "jengibre",
+          "bergamota"
+        ],
+        "corazon": [
+          "salvia",
+          "enebro",
+          "geranio"
+        ],
+        "fondo": [
+          "ambroxán",
+          "cedro",
+          "haba tonka",
+          "incienso"
+        ]
+      },
+      "concentraciones": [
+        "EDP",
+        "EDT",
+        "Le Parfum"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina",
+        "citas"
+      ],
+      "descripcion": "Manzana fresca, salvia y ambroxán: moderno, limpio y versátil. Ideal para todo el año y casi cualquier ocasión. Comparte estilo con Sauvage y Bleu de Chanel.",
+      "marca": "Yves Saint Laurent"
+    }
+  ]
+}

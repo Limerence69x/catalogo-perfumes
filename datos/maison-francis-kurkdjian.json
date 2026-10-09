@@ -1,0 +1,238 @@
+{
+  "marca": "Maison Francis Kurkdjian",
+  "tipo": "Nicho",
+  "estilo": "Perfumería parisina luminosa y de autor, creada por Francis Kurkdjian.",
+  "perfumes": [
+    {
+      "nombre": "724",
+      "anio": 2017,
+      "genero": "unisex",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "bergamota",
+          "aldehídos"
+        ],
+        "corazon": [
+          "jazmín",
+          "guisante de olor"
+        ],
+        "fondo": [
+          "almizcle blanco",
+          "sándalo"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Aldehídos y almizcle blanco: huele a ropa limpia y aire urbano. Ideal para la oficina. Comparte estilo con Aqua Universalis y Lazy Sunday Morning.",
+      "marca": "Maison Francis Kurkdjian"
+    },
+    {
+      "nombre": "À la rose",
+      "anio": 2014,
+      "genero": "femenino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "bergamota",
+          "naranja"
+        ],
+        "corazon": [
+          "rosa"
+        ],
+        "fondo": [
+          "cedro",
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Rosa fresca y luminosa con cítricos: romántico y muy natural. Ideal para primavera. Comparte estilo con Idôle y Miss Dior Blooming Bouquet.",
+      "marca": "Maison Francis Kurkdjian"
+    },
+    {
+      "nombre": "Aqua Universalis",
+      "anio": 2009,
+      "genero": "unisex",
+      "familia": "Cítrica",
+      "notas": {
+        "salida": [
+          "bergamota",
+          "limón"
+        ],
+        "corazon": [
+          "lirio de los valles"
+        ],
+        "fondo": [
+          "almizcle",
+          "maderas claras"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Cítricos y almizcle limpio: huele a ropa blanca secándose al sol. Ideal para primavera, verano y la oficina. Comparte estilo con Mugler Cologne y Bergamote 22.",
+      "marca": "Maison Francis Kurkdjian"
+    },
+    {
+      "nombre": "Baccarat Rouge 540",
+      "anio": 2015,
+      "genero": "unisex",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "azafrán",
+          "jazmín"
+        ],
+        "corazon": [
+          "madera ambarada",
+          "ámbar gris"
+        ],
+        "fondo": [
+          "resina de abeto",
+          "cedro"
+        ]
+      },
+      "concentraciones": [
+        "EDP",
+        "Extrait"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche",
+        "eventos formales"
+      ],
+      "descripcion": "Azafrán, madera ambarada y un efecto de algodón de azúcar mineral: aireado, lujoso y con una estela inconfundible. Funciona todo el año, en citas y eventos. Ha inspirado a Club de Nuit Untold de Armaf, Amber Oud Ruby Edition de Al Haramain y Baroque Rouge 540 de Maison Alhambra.",
+      "marca": "Maison Francis Kurkdjian"
+    },
+    {
+      "nombre": "Gentle Fluidity Silver",
+      "anio": 2019,
+      "genero": "unisex",
+      "familia": "Aromática",
+      "notas": {
+        "salida": [
+          "enebro",
+          "nuez moscada",
+          "cilantro"
+        ],
+        "corazon": [
+          "almizcle"
+        ],
+        "fondo": [
+          "maderas"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Enebro y especias frías sobre almizcle: fresco, limpio y elegante. Ideal para la oficina en entretiempo. Comparte estilo con Orphéon de Diptyque.",
+      "marca": "Maison Francis Kurkdjian"
+    },
+    {
+      "nombre": "Grand Soir",
+      "anio": 2016,
+      "genero": "unisex",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "ládano"
+        ],
+        "corazon": [
+          "benjuí"
+        ],
+        "fondo": [
+          "vainilla",
+          "haba tonka"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche",
+        "eventos formales"
+      ],
+      "descripcion": "Un ámbar puro, resinoso y avainillado: cálido como un salón con chimenea en invierno. Ideal para noches de invierno. Comparte estilo con Shalimar y Prada Candy.",
+      "marca": "Maison Francis Kurkdjian"
+    },
+    {
+      "nombre": "Oud Satin Mood",
+      "anio": 2015,
+      "genero": "unisex",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "violeta"
+        ],
+        "corazon": [
+          "rosa",
+          "oud"
+        ],
+        "fondo": [
+          "vainilla",
+          "benjuí"
+        ]
+      },
+      "concentraciones": [
+        "EDP",
+        "Extrait"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche",
+        "eventos formales"
+      ],
+      "descripcion": "Rosa, violeta y oud envueltos en vainilla: suntuoso, aterciopelado y dulce. Ideal para noches de invierno y ocasiones especiales. Comparte estilo con Oud Ispahan de Dior.",
+      "marca": "Maison Francis Kurkdjian"
+    }
+  ]
+}

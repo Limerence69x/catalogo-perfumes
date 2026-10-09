@@ -1,0 +1,173 @@
+{
+  "marca": "Valentino",
+  "tipo": "Diseñador",
+  "estilo": "Romanticismo romano de alta costura: vainilla, rosas y sofisticación urbana.",
+  "perfumes": [
+    {
+      "nombre": "Donna Born in Roma",
+      "anio": 2019,
+      "genero": "femenino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "grosella negra",
+          "pimienta rosa",
+          "bergamota"
+        ],
+        "corazon": [
+          "jazmín"
+        ],
+        "fondo": [
+          "vainilla bourbon",
+          "guayaco"
+        ]
+      },
+      "concentraciones": [
+        "EDP",
+        "Intense"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Jazmín y vainilla con un toque de grosella: dulce, elegante y moderno. Ideal para citas y noches. Comparte estilo con Good Girl y Black Opium.",
+      "marca": "Valentino"
+    },
+    {
+      "nombre": "Uomo Born in Roma",
+      "anio": 2019,
+      "genero": "masculino",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "notas minerales",
+          "jengibre",
+          "hoja de violeta"
+        ],
+        "corazon": [
+          "salvia"
+        ],
+        "fondo": [
+          "vetiver",
+          "maderas ahumadas"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Notas minerales, violeta y vetiver ahumado: moderno, salado y elegante. Ideal para el día y citas en primavera y otoño. Comparte estilo con Y de Yves Saint Laurent y Dylan Blue.",
+      "marca": "Valentino"
+    },
+    {
+      "nombre": "Uomo Born in Roma Intense",
+      "anio": 2022,
+      "genero": "masculino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "lavanda"
+        ],
+        "corazon": [
+          "vainilla"
+        ],
+        "fondo": [
+          "vetiver"
+        ]
+      },
+      "concentraciones": [
+        "EDP Intense"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Vainilla, lavanda y vetiver: cálido, cremoso y seductor. Ideal para noches de otoño e invierno. Comparte estilo con Le Male Le Parfum y Phantom.",
+      "marca": "Valentino"
+    },
+    {
+      "nombre": "Valentino Uomo",
+      "anio": 2014,
+      "genero": "masculino",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "bergamota",
+          "mirto"
+        ],
+        "corazon": [
+          "avellana",
+          "gianduja"
+        ],
+        "fondo": [
+          "cuero",
+          "cedro"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "oficina",
+        "citas",
+        "eventos formales"
+      ],
+      "descripcion": "Gianduja (chocolate con avellana) y cuero suave: elegante, cremoso y refinado. Ideal para la oficina y eventos en otoño e invierno. Comparte estilo con L'Homme Idéal y Dior Homme Intense.",
+      "marca": "Valentino"
+    },
+    {
+      "nombre": "Valentino Uomo Intense",
+      "anio": 2016,
+      "genero": "masculino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "mandarina",
+          "salvia"
+        ],
+        "corazon": [
+          "iris"
+        ],
+        "fondo": [
+          "vainilla",
+          "cuero",
+          "haba tonka"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche",
+        "eventos formales"
+      ],
+      "descripcion": "Iris polvoso con vainilla y cuero: lujoso, cálido y muy elegante. Ideal para noches y eventos en invierno. Comparte estilo con Dior Homme Intense y Le Male Le Parfum.",
+      "marca": "Valentino"
+    }
+  ]
+}

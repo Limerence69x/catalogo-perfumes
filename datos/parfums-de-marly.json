@@ -1,0 +1,182 @@
+{
+  "marca": "Parfums de Marly",
+  "tipo": "Nicho",
+  "estilo": "Inspiración en la corte de Luis XV: perfumes potentes, elegantes y de gran estela.",
+  "perfumes": [
+    {
+      "nombre": "Althaïr",
+      "anio": 2023,
+      "genero": "masculino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "canela",
+          "cardamomo",
+          "azahar"
+        ],
+        "corazon": [],
+        "fondo": [
+          "vainilla bourbon",
+          "praliné"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Vainilla bourbon con canela y azahar: dulce, especiado y muy envolvente. Ideal para otoño e invierno. Comparte estilo con Khamrah de Lattafa y Angels' Share.",
+      "marca": "Parfums de Marly"
+    },
+    {
+      "nombre": "Delina",
+      "anio": 2017,
+      "genero": "femenino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "lichi",
+          "ruibarbo",
+          "bergamota",
+          "nuez moscada"
+        ],
+        "corazon": [
+          "rosa turca",
+          "peonía"
+        ],
+        "fondo": [
+          "vainilla",
+          "cachemira"
+        ]
+      },
+      "concentraciones": [
+        "EDP",
+        "Exclusif"
+      ],
+      "temporadas": [
+        "primavera",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas",
+        "eventos formales"
+      ],
+      "descripcion": "Rosa turca y lichi: romántico, jugoso y muy femenino. Ideal para primavera y otoño. Comparte estilo con Coco Mademoiselle e Idôle.",
+      "marca": "Parfums de Marly"
+    },
+    {
+      "nombre": "Herod",
+      "anio": 2012,
+      "genero": "masculino",
+      "familia": "Especiada",
+      "notas": {
+        "salida": [
+          "canela",
+          "pimienta"
+        ],
+        "corazon": [
+          "tabaco",
+          "incienso",
+          "osmanthus"
+        ],
+        "fondo": [
+          "vainilla",
+          "cedro"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche"
+      ],
+      "descripcion": "Tabaco, canela y vainilla: cálido, sofisticado y muy invernal. Ideal para noches frías. Comparte estilo con Tobacco Vanille y Spicebomb Extreme.",
+      "marca": "Parfums de Marly"
+    },
+    {
+      "nombre": "Layton",
+      "anio": 2016,
+      "genero": "masculino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "manzana",
+          "lavanda",
+          "bergamota",
+          "mandarina"
+        ],
+        "corazon": [
+          "geranio",
+          "violeta",
+          "jazmín"
+        ],
+        "fondo": [
+          "vainilla",
+          "cardamomo",
+          "pimienta",
+          "guayaco"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche",
+        "eventos formales"
+      ],
+      "descripcion": "Manzana, lavanda y vainilla especiada: elegante, dulce y de gran estela. Ideal para otoño e invierno. Comparte estilo con Le Male y Phantom.",
+      "marca": "Parfums de Marly"
+    },
+    {
+      "nombre": "Pegasus",
+      "anio": 2011,
+      "genero": "masculino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "heliotropo",
+          "bergamota"
+        ],
+        "corazon": [
+          "almendra amarga",
+          "lavanda",
+          "jazmín"
+        ],
+        "fondo": [
+          "vainilla",
+          "sándalo",
+          "ámbar"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Almendra y vainilla con heliotropo: cremoso, elegante y reconfortante. Ideal para otoño e invierno. Comparte estilo con L'Homme Idéal y Pi.",
+      "marca": "Parfums de Marly"
+    }
+  ]
+}

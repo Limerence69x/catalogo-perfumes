@@ -1,0 +1,174 @@
+{
+  "marca": "Amouage",
+  "tipo": "Nicho",
+  "estilo": "Opulencia de Omán: inciensos, resinas y composiciones de gran complejidad.",
+  "perfumes": [
+    {
+      "nombre": "Epic Man",
+      "anio": 2009,
+      "genero": "masculino",
+      "familia": "Especiada",
+      "notas": {
+        "salida": [
+          "pimienta rosa",
+          "comino"
+        ],
+        "corazon": [],
+        "fondo": [
+          "incienso",
+          "oud"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche",
+        "eventos formales"
+      ],
+      "descripcion": "Especias e incienso: místico y resinoso. Ideal para invierno. Comparte estilo con Jubilation XXV.",
+      "marca": "Amouage"
+    },
+    {
+      "nombre": "Guidance",
+      "anio": 2021,
+      "genero": "unisex",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "pera",
+          "avellana"
+        ],
+        "corazon": [
+          "incienso",
+          "rosa"
+        ],
+        "fondo": [
+          "sándalo",
+          "vainilla"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Pera, avellana e incienso con vainilla: cremoso y elegante. Ideal para otoño e invierno. Comparte estilo con Baccarat Rouge 540.",
+      "marca": "Amouage"
+    },
+    {
+      "nombre": "Interlude Man",
+      "anio": 2012,
+      "genero": "masculino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "orégano",
+          "pimienta",
+          "bergamota"
+        ],
+        "corazon": [
+          "incienso",
+          "opopónaco",
+          "ámbar"
+        ],
+        "fondo": [
+          "cuero",
+          "oud",
+          "pachulí",
+          "sándalo"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche",
+        "eventos formales"
+      ],
+      "descripcion": "Incienso, orégano y resinas ahumadas: denso, caótico y fascinante. Ideal para noches de invierno. Comparte estilo con Boss Bottled Elixir en una versión mucho más intensa.",
+      "marca": "Amouage"
+    },
+    {
+      "nombre": "Jubilation XXV",
+      "anio": 2008,
+      "genero": "masculino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [],
+        "corazon": [
+          "rosa",
+          "incienso"
+        ],
+        "fondo": [
+          "mirra",
+          "oud",
+          "ámbar"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche",
+        "eventos formales"
+      ],
+      "descripcion": "Incienso, rosa y resinas: opulento, regio y profundo. Ideal para noches de invierno. Comparte estilo con Interlude Man.",
+      "marca": "Amouage"
+    },
+    {
+      "nombre": "Reflection Man",
+      "anio": 2007,
+      "genero": "masculino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "romero",
+          "pimienta rosa"
+        ],
+        "corazon": [
+          "jazmín",
+          "neroli",
+          "iris"
+        ],
+        "fondo": [
+          "sándalo",
+          "vetiver",
+          "cedro"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "oficina",
+        "eventos formales"
+      ],
+      "descripcion": "Neroli, jazmín e iris: limpio, floral y muy elegante. Ideal para la oficina y eventos. Comparte estilo con L'Homme Prada.",
+      "marca": "Amouage"
+    }
+  ]
+}

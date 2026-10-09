@@ -1,0 +1,173 @@
+{
+  "marca": "Bvlgari",
+  "tipo": "Diseñador",
+  "estilo": "Joyería romana hecha perfume: tés, maderas preciosas y frescuras mediterráneas.",
+  "perfumes": [
+    {
+      "nombre": "Aqva pour Homme",
+      "anio": 2005,
+      "genero": "masculino",
+      "familia": "Acuática",
+      "notas": {
+        "salida": [
+          "mandarina",
+          "petitgrain"
+        ],
+        "corazon": [
+          "algas",
+          "notas marinas"
+        ],
+        "fondo": [
+          "maderas",
+          "ámbar"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "verano"
+      ],
+      "ocasiones": [
+        "diario"
+      ],
+      "descripcion": "Un acuático mineral y salino, con mandarina brillante y un efecto de algas y agua de mar. Pensado para el verano, la playa y los días calurosos. Si te gusta Acqua di Giò o Dylan Blue, este es su primo más salado.",
+      "marca": "Bvlgari"
+    },
+    {
+      "nombre": "Bvlgari pour Homme",
+      "anio": 1995,
+      "genero": "masculino",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "té de Darjeeling",
+          "bergamota"
+        ],
+        "corazon": [
+          "pimienta rosa",
+          "cardamomo"
+        ],
+        "fondo": [
+          "almizcle",
+          "maderas",
+          "vetiver"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Té negro suave, especias limpias y almizcle: un aroma de hombre elegante, discreto y muy refinado. Funciona todo el año de día y es un gran perfume de oficina. Comparte esa limpieza sobria con Terre d'Hermès y L'Homme de Yves Saint Laurent.",
+      "marca": "Bvlgari"
+    },
+    {
+      "nombre": "Eau Parfumée au Thé Vert",
+      "anio": 1992,
+      "genero": "unisex",
+      "familia": "Cítrica",
+      "notas": {
+        "salida": [
+          "té verde",
+          "bergamota",
+          "cardamomo"
+        ],
+        "corazon": [
+          "jazmín"
+        ],
+        "fondo": [
+          "almizcle",
+          "maderas"
+        ]
+      },
+      "concentraciones": [
+        "EDC"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Una colonia ligera de té verde y bergamota, transparente y serena, como una taza de té al aire libre. Perfecta para el calor, el día a día y quien no quiere invadir con su perfume. Abrió el camino a frescuras de té como CK One y Silver Mountain Water de Creed.",
+      "marca": "Bvlgari"
+    },
+    {
+      "nombre": "Man in Black",
+      "anio": 2014,
+      "genero": "masculino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "ron",
+          "especias"
+        ],
+        "corazon": [
+          "cuero",
+          "tuberosa",
+          "iris"
+        ],
+        "fondo": [
+          "benjuí",
+          "haba tonka",
+          "guayaco"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Ron especiado y cuero suave sobre un fondo cremoso de benjuí y haba tonka; sensual, cálido y algo licoroso. Ideal para noches de otoño e invierno y para citas. Se parece a Angels' Share de Kilian y, por su calidez, a Spicebomb.",
+      "marca": "Bvlgari"
+    },
+    {
+      "nombre": "Omnia Crystalline",
+      "anio": 2005,
+      "genero": "femenino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "bambú",
+          "pera nashi"
+        ],
+        "corazon": [
+          "loto"
+        ],
+        "fondo": [
+          "teca",
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Fresco, acuoso y luminoso: pera jugosa y flor de loto sobre un fondo de almizcle limpio. Muy cómodo para el día, la oficina y los meses cálidos. Comparte la limpieza de L'Eau d'Issey y de Bright Crystal de Versace.",
+      "marca": "Bvlgari"
+    }
+  ]
+}

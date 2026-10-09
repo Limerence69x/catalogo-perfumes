@@ -1,0 +1,286 @@
+{
+  "marca": "Chanel",
+  "tipo": "Diseñador",
+  "estilo": "La alta perfumería francesa por excelencia: aldehídos, iris y elegancia atemporal.",
+  "perfumes": [
+    {
+      "nombre": "Allure Homme Sport",
+      "anio": 2004,
+      "genero": "masculino",
+      "familia": "Cítrica",
+      "notas": {
+        "salida": [
+          "naranja",
+          "notas marinas",
+          "aldehídos"
+        ],
+        "corazon": [
+          "pimienta",
+          "neroli",
+          "cedro"
+        ],
+        "fondo": [
+          "haba tonka",
+          "vainilla",
+          "almizcle",
+          "vetiver"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "Eau Extrême",
+        "Cologne"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Naranja y brisa marina sobre un fondo cremoso de haba tonka y almizcle: deportivo pero con clase. Ideal para primavera y verano, de día y en la oficina. Se parece a Acqua di Giò en lo fresco y a Le Beau en lo cremoso.",
+      "marca": "Chanel"
+    },
+    {
+      "nombre": "Bleu de Chanel",
+      "anio": 2010,
+      "genero": "masculino",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "pomelo",
+          "limón",
+          "menta",
+          "pimienta rosa"
+        ],
+        "corazon": [
+          "jengibre",
+          "nuez moscada",
+          "jazmín"
+        ],
+        "fondo": [
+          "incienso",
+          "vetiver",
+          "cedro",
+          "sándalo",
+          "pachulí"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "EDP",
+        "Parfum"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina",
+        "citas",
+        "eventos formales"
+      ],
+      "descripcion": "Cítricos frescos que se asientan en un fondo de incienso y maderas limpias: elegante, moderno y muy versátil. Sirve para casi todo, de la oficina a una boda, en cualquier época. Comparte terreno con Sauvage, Burberry Hero y Y de Yves Saint Laurent.",
+      "marca": "Chanel"
+    },
+    {
+      "nombre": "Chance Eau Tendre",
+      "anio": 2010,
+      "genero": "femenino",
+      "familia": "Floral afrutada",
+      "notas": {
+        "salida": [
+          "pomelo",
+          "membrillo"
+        ],
+        "corazon": [
+          "jacinto",
+          "jazmín"
+        ],
+        "fondo": [
+          "almizcle",
+          "iris",
+          "cedro"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Pomelo y membrillo jugosos con jazmín y almizcle suave: tierno, luminoso y muy agradable. Ideal para primavera y verano, de día. Se parece a Bright Crystal de Versace y a Light Blue en su lado más delicado.",
+      "marca": "Chanel"
+    },
+    {
+      "nombre": "Coco Mademoiselle",
+      "anio": 2001,
+      "genero": "femenino",
+      "familia": "Chipre",
+      "notas": {
+        "salida": [
+          "naranja",
+          "bergamota",
+          "mandarina"
+        ],
+        "corazon": [
+          "rosa",
+          "jazmín",
+          "lichi"
+        ],
+        "fondo": [
+          "pachulí",
+          "vetiver",
+          "vainilla",
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "EDP",
+        "EDP Intense",
+        "Parfum"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina",
+        "citas",
+        "eventos formales"
+      ],
+      "descripcion": "Cítricos chispeantes y rosa sobre un pachulí limpio y elegante: moderno, seguro y femenino. Funciona todo el año y en cualquier ocasión, de la oficina a la noche. Comparte estructura con Sì de Giorgio Armani y Delina de Parfums de Marly.",
+      "marca": "Chanel"
+    },
+    {
+      "nombre": "Égoïste Platinum",
+      "anio": 1993,
+      "genero": "masculino",
+      "familia": "Fougère",
+      "notas": {
+        "salida": [
+          "lavanda",
+          "romero",
+          "neroli",
+          "petitgrain"
+        ],
+        "corazon": [
+          "geranio",
+          "salvia",
+          "jazmín"
+        ],
+        "fondo": [
+          "vetiver",
+          "cedro",
+          "musgo de roble"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "primavera",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina",
+        "eventos formales"
+      ],
+      "descripcion": "Lavanda y romero muy pulidos sobre vetiver y musgo: un aroma de traje y corbata, limpio e impecable. Ideal para la oficina y eventos formales en primavera y otoño. Pariente de Azzaro Pour Homme y de Eternity for Men, más refinado.",
+      "marca": "Chanel"
+    },
+    {
+      "nombre": "Gabrielle",
+      "anio": 2017,
+      "genero": "femenino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "mandarina",
+          "pomelo",
+          "grosella negra"
+        ],
+        "corazon": [
+          "jazmín",
+          "tuberosa",
+          "ylang-ylang",
+          "azahar"
+        ],
+        "fondo": [
+          "almizcle",
+          "sándalo"
+        ]
+      },
+      "concentraciones": [
+        "EDP",
+        "Essence"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina",
+        "eventos formales"
+      ],
+      "descripcion": "Un ramo radiante de flores blancas con un toque cítrico: luminoso, solar y elegante. Muy bueno para la primavera, el trabajo y eventos de día. Comparte el estilo de J'adore de Dior y de L'Interdit de Givenchy.",
+      "marca": "Chanel"
+    },
+    {
+      "nombre": "N°5",
+      "anio": 1921,
+      "genero": "femenino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "aldehídos",
+          "ylang-ylang",
+          "neroli",
+          "bergamota"
+        ],
+        "corazon": [
+          "jazmín",
+          "rosa",
+          "iris",
+          "lirio de los valles"
+        ],
+        "fondo": [
+          "sándalo",
+          "vetiver",
+          "vainilla",
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "EDP",
+        "Parfum",
+        "L'Eau"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "eventos formales",
+        "noche"
+      ],
+      "descripcion": "El floral aldehídico más famoso del mundo: brillo jabonoso y polvoso sobre rosa, jazmín y sándalo. Ideal para eventos formales y noches elegantes en otoño e invierno. Comparte la vena clásica de Shalimar y de Trésor.",
+      "marca": "Chanel"
+    }
+  ]
+}

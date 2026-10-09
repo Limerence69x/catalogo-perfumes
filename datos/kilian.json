@@ -1,0 +1,176 @@
+{
+  "marca": "Kilian",
+  "tipo": "Nicho",
+  "estilo": "Lujo seductor y decadente: licores, flores blancas y rosas en frascos de joyería.",
+  "perfumes": [
+    {
+      "nombre": "Angels' Share",
+      "anio": 2020,
+      "genero": "unisex",
+      "familia": "Gourmand",
+      "notas": {
+        "salida": [
+          "coñac"
+        ],
+        "corazon": [
+          "canela",
+          "haba tonka",
+          "roble"
+        ],
+        "fondo": [
+          "praliné",
+          "vainilla",
+          "sándalo"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Coñac, canela y praliné: licoroso, dulce y muy cálido, como un postre flambeado. Ideal para noches de invierno. Ha inspirado a Khamrah de Lattafa.",
+      "marca": "Kilian"
+    },
+    {
+      "nombre": "Black Phantom",
+      "anio": 2017,
+      "genero": "unisex",
+      "familia": "Gourmand",
+      "notas": {
+        "salida": [
+          "ron",
+          "café"
+        ],
+        "corazon": [
+          "caramelo",
+          "almendra",
+          "heliotropo"
+        ],
+        "fondo": [
+          "sándalo",
+          "vetiver"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche"
+      ],
+      "descripcion": "Ron, café y caramelo: oscuro, licoroso y muy gourmand. Ideal para noches de invierno. Comparte estilo con A*Men.",
+      "marca": "Kilian"
+    },
+    {
+      "nombre": "Good Girl Gone Bad",
+      "anio": 2012,
+      "genero": "femenino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "osmanthus",
+          "jazmín"
+        ],
+        "corazon": [
+          "tuberosa",
+          "narciso",
+          "rosa"
+        ],
+        "fondo": [
+          "ámbar",
+          "cedro"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Flores blancas jugosas: seductor, frutal y alegre. Ideal para primavera y verano. Comparte estilo con Flora Gorgeous Gardenia.",
+      "marca": "Kilian"
+    },
+    {
+      "nombre": "Love, Don't Be Shy",
+      "anio": 2007,
+      "genero": "femenino",
+      "familia": "Gourmand",
+      "notas": {
+        "salida": [
+          "neroli",
+          "bergamota",
+          "pimienta rosa",
+          "cilantro"
+        ],
+        "corazon": [
+          "azahar",
+          "jazmín"
+        ],
+        "fondo": [
+          "malvavisco",
+          "caramelo",
+          "vainilla",
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Azahar y malvavisco: dulce, tierno y muy femenino. Ideal para otoño e invierno. Comparte estilo con Prada Candy y Bonbon.",
+      "marca": "Kilian"
+    },
+    {
+      "nombre": "Straight to Heaven",
+      "anio": 2007,
+      "genero": "masculino",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "ron"
+        ],
+        "corazon": [
+          "nuez moscada"
+        ],
+        "fondo": [
+          "pachulí",
+          "cedro",
+          "vainilla"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche"
+      ],
+      "descripcion": "Ron y maderas: seco, elegante y masculino. Ideal para noches frías. Comparte estilo con Man in Black.",
+      "marca": "Kilian"
+    }
+  ]
+}

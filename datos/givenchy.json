@@ -1,0 +1,181 @@
+{
+  "marca": "Givenchy",
+  "tipo": "Diseñador",
+  "estilo": "Elegancia aristocrática francesa: iris, flores blancas y ambarados refinados.",
+  "perfumes": [
+    {
+      "nombre": "Ange ou Démon",
+      "anio": 2006,
+      "genero": "femenino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "mandarina",
+          "azafrán",
+          "cardamomo",
+          "tomillo"
+        ],
+        "corazon": [
+          "lirio",
+          "ylang-ylang",
+          "orquídea"
+        ],
+        "fondo": [
+          "roble",
+          "haba tonka",
+          "vainilla"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche",
+        "eventos formales"
+      ],
+      "descripcion": "Especias, flores blancas y vainilla en un ambarado misterioso y elegante. Ideal para noches de invierno y eventos especiales. Comparte la intensidad de Opium de Yves Saint Laurent y Euphoria.",
+      "marca": "Givenchy"
+    },
+    {
+      "nombre": "Gentleman Eau de Parfum",
+      "anio": 2018,
+      "genero": "masculino",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "pimienta negra"
+        ],
+        "corazon": [
+          "iris",
+          "lavanda"
+        ],
+        "fondo": [
+          "vainilla negra",
+          "pachulí"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "oficina",
+        "citas",
+        "eventos formales"
+      ],
+      "descripcion": "Iris polvoso y lavanda sobre vainilla oscura: un perfume de caballero clásico con aire moderno. Ideal para otoño e invierno, la oficina y ocasiones formales. Se parece a Dior Homme Intense y a L'Homme Prada.",
+      "marca": "Givenchy"
+    },
+    {
+      "nombre": "Irresistible",
+      "anio": 2020,
+      "genero": "femenino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "pera"
+        ],
+        "corazon": [
+          "rosa"
+        ],
+        "fondo": [
+          "madera rubia",
+          "almizcle",
+          "ambreta"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Rosa y pera envueltas en almizcle limpio: fresco, alegre y fácil de llevar. Ideal para primavera y verano, en el día a día. Se parece a Miss Dior Blooming Bouquet e Idôle de Lancôme.",
+      "marca": "Givenchy"
+    },
+    {
+      "nombre": "L'Interdit",
+      "anio": 2018,
+      "genero": "femenino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "pera",
+          "bergamota"
+        ],
+        "corazon": [
+          "tuberosa",
+          "azahar",
+          "jazmín"
+        ],
+        "fondo": [
+          "pachulí",
+          "vetiver",
+          "ambroxán",
+          "vainilla"
+        ]
+      },
+      "concentraciones": [
+        "EDP",
+        "Rouge",
+        "Intense"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche",
+        "eventos formales"
+      ],
+      "descripcion": "Flores blancas luminosas que se oscurecen con pachulí y vetiver: elegante, con un toque rebelde. Ideal para la noche y eventos en otoño e invierno. Comparte estilo con Good Girl y Gabrielle.",
+      "marca": "Givenchy"
+    },
+    {
+      "nombre": "Pi",
+      "anio": 1998,
+      "genero": "masculino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "mandarina",
+          "albahaca",
+          "romero"
+        ],
+        "corazon": [],
+        "fondo": [
+          "vainilla",
+          "haba tonka",
+          "benjuí",
+          "almendra"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Almendra y vainilla suaves con un toque aromático: un ambarado cremoso y reconfortante. Perfecto para el día a día en otoño e invierno. Comparte calidez con Le Male y Burberry Brit for Him.",
+      "marca": "Givenchy"
+    }
+  ]
+}

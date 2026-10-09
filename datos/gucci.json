@@ -1,0 +1,202 @@
+{
+  "marca": "Gucci",
+  "tipo": "Diseñador",
+  "estilo": "Romanticismo excéntrico y moderno, entre florales vintage y maderas oscuras.",
+  "perfumes": [
+    {
+      "nombre": "Flora Gorgeous Gardenia",
+      "anio": 2021,
+      "genero": "femenino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "flor de pera",
+          "frutos rojos"
+        ],
+        "corazon": [
+          "gardenia",
+          "jazmín"
+        ],
+        "fondo": [
+          "azúcar morena",
+          "pachulí"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Gardenia cremosa con frutos rojos y azúcar moreno: alegre, dulce y luminoso. Perfecto para primavera, verano y citas de día. Se parece a Lady Million y a Good Girl Gone Bad de Kilian, más ligero.",
+      "marca": "Gucci"
+    },
+    {
+      "nombre": "Gucci Bloom",
+      "anio": 2017,
+      "genero": "femenino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [],
+        "corazon": [
+          "tuberosa",
+          "jazmín",
+          "enredadera de Rangún"
+        ],
+        "fondo": []
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Un jardín denso de tuberosa y jazmín, verde y natural, como flores recién cortadas. Ideal para primavera y días soleados. Comparte flores blancas con Do Son de Diptyque y Gabrielle de Chanel.",
+      "marca": "Gucci"
+    },
+    {
+      "nombre": "Gucci Guilty Absolute pour Homme",
+      "anio": 2017,
+      "genero": "masculino",
+      "familia": "Cuero",
+      "notas": {
+        "salida": [],
+        "corazon": [
+          "cuero",
+          "ciprés"
+        ],
+        "fondo": [
+          "pachulí",
+          "vetiver"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Cuero crudo, maderas y vetiver: seco, sombrío y muy masculino, nada dulce. Ideal para otoño e invierno y para quien busca algo distinto. Comparte el tono de Tuscan Leather y Ombré Leather de Tom Ford.",
+      "marca": "Gucci"
+    },
+    {
+      "nombre": "Gucci Guilty pour Femme",
+      "anio": 2010,
+      "genero": "femenino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "mandarina",
+          "pimienta rosa"
+        ],
+        "corazon": [
+          "lila",
+          "durazno",
+          "geranio"
+        ],
+        "fondo": [
+          "ámbar",
+          "pachulí"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Pimienta rosa y durazno sobre ámbar y pachulí: cálido, coqueto y nocturno. Ideal para salir en otoño e invierno. Comparte estilo con The One de Dolce & Gabbana.",
+      "marca": "Gucci"
+    },
+    {
+      "nombre": "Gucci Guilty pour Homme",
+      "anio": 2011,
+      "genero": "masculino",
+      "familia": "Aromática",
+      "notas": {
+        "salida": [
+          "lavanda",
+          "limón"
+        ],
+        "corazon": [
+          "azahar"
+        ],
+        "fondo": [
+          "cedro",
+          "pachulí"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "EDP",
+        "Parfum"
+      ],
+      "temporadas": [
+        "primavera",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Lavanda y limón con azahar y un fondo seco de pachulí: aromático, limpio y moderno. Ideal para la oficina y el día en primavera y otoño. Pariente de Wanted de Azzaro y de Boss Bottled.",
+      "marca": "Gucci"
+    },
+    {
+      "nombre": "Gucci Rush",
+      "anio": 1999,
+      "genero": "femenino",
+      "familia": "Chipre",
+      "notas": {
+        "salida": [
+          "gardenia",
+          "fresia",
+          "durazno",
+          "cilantro"
+        ],
+        "corazon": [
+          "rosa",
+          "jazmín"
+        ],
+        "fondo": [
+          "pachulí",
+          "vainilla",
+          "vetiver"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche"
+      ],
+      "descripcion": "Durazno lácteo, gardenia y pachulí en un chipre sensual y muy original. Ideal para la noche en los meses fríos. Comparte audacia con Angel de Mugler y Coco Mademoiselle.",
+      "marca": "Gucci"
+    }
+  ]
+}

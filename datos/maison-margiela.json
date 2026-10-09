@@ -1,0 +1,172 @@
+{
+  "marca": "Maison Margiela",
+  "tipo": "Nicho",
+  "estilo": "Línea Replica: recuerdos embotellados de lugares, momentos y texturas cotidianas.",
+  "perfumes": [
+    {
+      "nombre": "Beach Walk",
+      "anio": 2012,
+      "genero": "femenino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "bergamota",
+          "limón",
+          "pimienta rosa"
+        ],
+        "corazon": [
+          "ylang-ylang",
+          "coco"
+        ],
+        "fondo": [
+          "almizcle",
+          "cedro"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "verano"
+      ],
+      "ocasiones": [
+        "diario"
+      ],
+      "descripcion": "Coco y protector solar: playa, sol y vacaciones. Ideal para verano. Comparte estilo con Le Beau.",
+      "marca": "Maison Margiela"
+    },
+    {
+      "nombre": "By the Fireplace",
+      "anio": 2015,
+      "genero": "unisex",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "clavo",
+          "pimienta rosa",
+          "azahar"
+        ],
+        "corazon": [
+          "castaña",
+          "guayaco",
+          "enebro"
+        ],
+        "fondo": [
+          "vainilla",
+          "cachemira"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Castañas asadas, humo de chimenea y vainilla: acogedor, dulce y ahumado. Ideal para otoño e invierno. Comparte estilo con Stronger With You y Burberry London for Men.",
+      "marca": "Maison Margiela"
+    },
+    {
+      "nombre": "Coffee Break",
+      "anio": 2019,
+      "genero": "unisex",
+      "familia": "Gourmand",
+      "notas": {
+        "salida": [
+          "café"
+        ],
+        "corazon": [
+          "lavanda"
+        ],
+        "fondo": []
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Café con leche y lavanda: cálido y acogedor. Ideal para otoño e invierno. Comparte estilo con A*Men.",
+      "marca": "Maison Margiela"
+    },
+    {
+      "nombre": "Jazz Club",
+      "anio": 2013,
+      "genero": "masculino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "pimienta rosa",
+          "limón",
+          "neroli"
+        ],
+        "corazon": [
+          "ron",
+          "salvia"
+        ],
+        "fondo": [
+          "tabaco",
+          "vainilla",
+          "haba tonka"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Ron, tabaco y vainilla: un bar de jazz con sillones de cuero. Ideal para noches frías. Comparte estilo con Tobacco Vanille.",
+      "marca": "Maison Margiela"
+    },
+    {
+      "nombre": "Lazy Sunday Morning",
+      "anio": 2013,
+      "genero": "unisex",
+      "familia": "Almizclada",
+      "notas": {
+        "salida": [
+          "pera",
+          "aldehídos",
+          "lirio de los valles"
+        ],
+        "corazon": [
+          "iris",
+          "rosa"
+        ],
+        "fondo": [
+          "almizcle blanco",
+          "ambreta",
+          "pachulí"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Almizcle y sábanas limpias: suave, íntimo y tranquilo. Ideal para primavera y verano. Comparte estilo con Blanche de Byredo.",
+      "marca": "Maison Margiela"
+    }
+  ]
+}

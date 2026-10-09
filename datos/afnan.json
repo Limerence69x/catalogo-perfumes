@@ -1,0 +1,126 @@
+{
+  "marca": "Afnan",
+  "tipo": "Árabe",
+  "estilo": "Perfumería de Dubái con fórmulas densas y modernas, famosa por 9pm y la línea Supremacy.",
+  "perfumes": [
+    {
+      "nombre": "9am Dive",
+      "anio": "",
+      "genero": "masculino",
+      "familia": "Acuática",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Un acuático fresco y mentolado, pensado para el calor y el día a día. Funciona en primavera y verano, en la oficina o el gimnasio. Comparte estilo con Acqua di Giò Profumo y Dylan Blue.",
+      "marca": "Afnan"
+    },
+    {
+      "nombre": "9pm",
+      "anio": 2020,
+      "genero": "masculino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "manzana",
+          "canela",
+          "lavanda",
+          "bergamota"
+        ],
+        "corazon": [
+          "azahar",
+          "lirio de los valles"
+        ],
+        "fondo": [
+          "vainilla",
+          "haba tonka",
+          "ámbar",
+          "pachulí"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche"
+      ],
+      "descripcion": "Manzana, canela y vainilla: dulce, cálido y de discoteca. Ideal para noches de otoño e invierno. Comparte estilo con Ultra Male de Jean Paul Gaultier.",
+      "marca": "Afnan"
+    },
+    {
+      "nombre": "Supremacy Not Only Intense",
+      "anio": "",
+      "genero": "masculino",
+      "familia": "Chipre",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "concentraciones": [
+        "Extrait"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Una versión más densa y oscura de la línea Supremacy, afrutada y ahumada con fondo de maderas. Ideal para otoño e invierno. Comparte estilo con Aventus y Club de Nuit Intense Man.",
+      "marca": "Afnan"
+    },
+    {
+      "nombre": "Supremacy Silver",
+      "anio": "",
+      "genero": "masculino",
+      "familia": "Chipre",
+      "notas": {
+        "salida": [
+          "grosella negra",
+          "bergamota",
+          "manzana"
+        ],
+        "corazon": [
+          "abedul",
+          "pachulí"
+        ],
+        "fondo": [
+          "almizcle",
+          "ámbar gris"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Fruta, abedul ahumado y almizcle: afrutado, limpio y versátil. Ideal para primavera, verano y otoño. Inspirado en Aventus de Creed.",
+      "marca": "Afnan"
+    }
+  ]
+}

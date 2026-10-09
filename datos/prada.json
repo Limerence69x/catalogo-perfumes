@@ -1,0 +1,221 @@
+{
+  "marca": "Prada",
+  "tipo": "Diseñador",
+  "estilo": "Intelectualidad milanesa: iris limpio, almizcles y modernidad sobria.",
+  "perfumes": [
+    {
+      "nombre": "Infusion d'Iris",
+      "anio": 2007,
+      "genero": "femenino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "mandarina",
+          "neroli"
+        ],
+        "corazon": [
+          "iris",
+          "gálbano"
+        ],
+        "fondo": [
+          "incienso",
+          "benjuí",
+          "cedro",
+          "vetiver"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "oficina",
+        "eventos formales"
+      ],
+      "descripcion": "Iris limpio y elegante con incienso suave: huele a piel limpia y a lujo discreto. Ideal para la oficina y eventos en primavera y otoño. Comparte estilo con L'Homme Prada y Fleur de Peau de Diptyque.",
+      "marca": "Prada"
+    },
+    {
+      "nombre": "L'Homme Prada",
+      "anio": 2016,
+      "genero": "masculino",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "neroli",
+          "pimienta negra",
+          "cardamomo"
+        ],
+        "corazon": [
+          "iris",
+          "violeta",
+          "geranio"
+        ],
+        "fondo": [
+          "ámbar",
+          "pachulí",
+          "cedro"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "oficina",
+        "citas",
+        "eventos formales"
+      ],
+      "descripcion": "Iris jabonoso y limpio con especias suaves: elegante, sofisticado y de camisa blanca. Ideal para la oficina y eventos en cualquier época. Comparte estilo con Dior Homme Intense y Gentleman de Givenchy.",
+      "marca": "Prada"
+    },
+    {
+      "nombre": "Luna Rossa Black",
+      "anio": 2018,
+      "genero": "masculino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "bergamota"
+        ],
+        "corazon": [
+          "pachulí",
+          "angélica"
+        ],
+        "fondo": [
+          "almizcle",
+          "cumarina",
+          "ámbar"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Bergamota, pachulí y ámbar cremoso: suave, oscuro y seductor. Ideal para tardes y noches frías. Comparte estilo con Armani Code y Le Male Le Parfum.",
+      "marca": "Prada"
+    },
+    {
+      "nombre": "Luna Rossa Carbon",
+      "anio": 2017,
+      "genero": "masculino",
+      "familia": "Aromática",
+      "notas": {
+        "salida": [
+          "bergamota",
+          "pimienta"
+        ],
+        "corazon": [
+          "lavanda",
+          "notas metálicas"
+        ],
+        "fondo": [
+          "ambroxán",
+          "pachulí"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Lavanda metálica y ambroxán: fresco, limpio y moderno, con un aire similar a Sauvage. Funciona todo el año en el día a día. Comparte estilo con Sauvage y H24 de Hermès.",
+      "marca": "Prada"
+    },
+    {
+      "nombre": "Paradoxe",
+      "anio": 2022,
+      "genero": "femenino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "pera",
+          "bergamota",
+          "mandarina"
+        ],
+        "corazon": [
+          "neroli",
+          "jazmín",
+          "azahar"
+        ],
+        "fondo": [
+          "ámbar",
+          "almizcle blanco",
+          "vainilla"
+        ]
+      },
+      "concentraciones": [
+        "EDP",
+        "Intense"
+      ],
+      "temporadas": [
+        "primavera",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina",
+        "citas"
+      ],
+      "descripcion": "Neroli y azahar luminosos sobre ámbar y almizcle: moderno, limpio y femenino. Ideal para primavera y otoño. Comparte estilo con Libre y My Way.",
+      "marca": "Prada"
+    },
+    {
+      "nombre": "Prada Candy",
+      "anio": 2011,
+      "genero": "femenino",
+      "familia": "Gourmand",
+      "notas": {
+        "salida": [
+          "caramelo"
+        ],
+        "corazon": [
+          "almizcle"
+        ],
+        "fondo": [
+          "benjuí",
+          "vainilla"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Caramelo, benjuí y almizcle: un gourmand suave, cálido y nada empalagoso. Ideal para otoño e invierno. Comparte estilo con Grand Soir de Maison Francis Kurkdjian y Khamrah.",
+      "marca": "Prada"
+    }
+  ]
+}

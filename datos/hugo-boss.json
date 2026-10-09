@@ -1,0 +1,212 @@
+{
+  "marca": "Hugo Boss",
+  "tipo": "Diseñador",
+  "estilo": "Masculinidad alemana moderna: perfumes versátiles para la oficina y el día a día.",
+  "perfumes": [
+    {
+      "nombre": "Boss Alive",
+      "anio": 2020,
+      "genero": "femenino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "manzana",
+          "canela"
+        ],
+        "corazon": [
+          "jazmín"
+        ],
+        "fondo": [
+          "vainilla",
+          "sándalo",
+          "cedro"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Manzana con canela y vainilla cremosa: cálido, alegre y fácil de llevar a diario. Ideal para otoño e invierno. Comparte calidez con La Vie est Belle y Mon Guerlain.",
+      "marca": "Hugo Boss"
+    },
+    {
+      "nombre": "Boss Bottled",
+      "anio": 1998,
+      "genero": "masculino",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "manzana",
+          "limón",
+          "ciruela"
+        ],
+        "corazon": [
+          "geranio",
+          "canela",
+          "clavo"
+        ],
+        "fondo": [
+          "sándalo",
+          "cedro",
+          "vetiver",
+          "vainilla"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "EDP",
+        "Parfum",
+        "Elixir"
+      ],
+      "temporadas": [
+        "primavera",
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Manzana, canela y maderas suaves: un perfume masculino cálido, limpio y muy fácil de llevar. Funciona todo el año, en especial para la oficina. Comparte estilo con Wanted de Azzaro y Burberry Brit for Him.",
+      "marca": "Hugo Boss"
+    },
+    {
+      "nombre": "Boss Bottled Elixir",
+      "anio": 2023,
+      "genero": "masculino",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "incienso",
+          "cardamomo"
+        ],
+        "corazon": [
+          "vetiver",
+          "pachulí"
+        ],
+        "fondo": [
+          "cedro",
+          "ládano"
+        ]
+      },
+      "concentraciones": [
+        "Parfum Intense"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche",
+        "eventos formales"
+      ],
+      "descripcion": "Incienso, cardamomo y maderas resinosas: la cara más oscura, seria y elegante de Boss Bottled. Ideal para noches y eventos en otoño e invierno. Comparte estilo con Interlude Man de Amouage en versión mucho más suave.",
+      "marca": "Hugo Boss"
+    },
+    {
+      "nombre": "Boss The Scent",
+      "anio": 2015,
+      "genero": "masculino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "jengibre"
+        ],
+        "corazon": [
+          "maninka",
+          "lavanda"
+        ],
+        "fondo": [
+          "cuero"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "Le Parfum",
+        "Elixir"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Jengibre y fruta exótica sobre cuero suave: un aroma seductor, cálido y cercano. Ideal para citas y noches de otoño e invierno. Comparte estilo con Armani Code y La Nuit de L'Homme.",
+      "marca": "Hugo Boss"
+    },
+    {
+      "nombre": "Boss The Scent for Her",
+      "anio": 2016,
+      "genero": "femenino",
+      "familia": "Gourmand",
+      "notas": {
+        "salida": [
+          "durazno",
+          "fresia"
+        ],
+        "corazon": [
+          "osmanthus"
+        ],
+        "fondo": [
+          "cacao tostado"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Durazno y osmanthus sobre cacao tostado: dulce, aterciopelado y seductor. Perfecto para noches de otoño. Comparte estilo con Good Girl y Very Good Girl.",
+      "marca": "Hugo Boss"
+    },
+    {
+      "nombre": "Hugo Man",
+      "anio": 1995,
+      "genero": "masculino",
+      "familia": "Aromática",
+      "notas": {
+        "salida": [
+          "manzana verde",
+          "menta",
+          "lavanda"
+        ],
+        "corazon": [
+          "salvia",
+          "geranio"
+        ],
+        "fondo": [
+          "abeto",
+          "cedro"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario"
+      ],
+      "descripcion": "Manzana verde y abeto: fresco, verde y juvenil, como un paseo por el bosque. Ideal para primavera y verano y el día a día. Comparte frescura con Eros de Versace, aunque es más verde y sencillo.",
+      "marca": "Hugo Boss"
+    }
+  ]
+}

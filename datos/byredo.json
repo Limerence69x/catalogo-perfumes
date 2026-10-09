@@ -1,0 +1,217 @@
+{
+  "marca": "Byredo",
+  "tipo": "Nicho",
+  "estilo": "Minimalismo escandinavo poético: atmósferas limpias, suaves y conceptuales.",
+  "perfumes": [
+    {
+      "nombre": "Bal d'Afrique",
+      "anio": 2009,
+      "genero": "unisex",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "bergamota",
+          "limón",
+          "neroli",
+          "caléndula"
+        ],
+        "corazon": [
+          "violeta",
+          "jazmín",
+          "ciclamen"
+        ],
+        "fondo": [
+          "vetiver",
+          "almizcle",
+          "ámbar",
+          "cedro"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario"
+      ],
+      "descripcion": "Cítricos y flores sobre vetiver y almizcle: alegre, cálido y vibrante. Ideal para primavera y verano. Comparte estilo con Bergamote 22.",
+      "marca": "Byredo"
+    },
+    {
+      "nombre": "Bibliothèque",
+      "anio": 2016,
+      "genero": "unisex",
+      "familia": "Cuero",
+      "notas": {
+        "salida": [
+          "durazno",
+          "ciruela"
+        ],
+        "corazon": [
+          "violeta",
+          "peonía"
+        ],
+        "fondo": [
+          "cuero",
+          "vainilla",
+          "pachulí"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Fruta madura, violeta y cuero suave: huele a biblioteca antigua, libros y sillones. Ideal para otoño e invierno. Comparte estilo con Whispers in the Library.",
+      "marca": "Byredo"
+    },
+    {
+      "nombre": "Blanche",
+      "anio": 2009,
+      "genero": "femenino",
+      "familia": "Almizclada",
+      "notas": {
+        "salida": [
+          "aldehídos",
+          "rosa blanca",
+          "pimienta rosa"
+        ],
+        "corazon": [
+          "peonía",
+          "neroli"
+        ],
+        "fondo": [
+          "almizcle",
+          "sándalo"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Aldehídos y almizcle: el aroma de sábanas blancas recién lavadas. Ideal para la oficina y el día. Comparte estilo con 724 y Lazy Sunday Morning.",
+      "marca": "Byredo"
+    },
+    {
+      "nombre": "Gypsy Water",
+      "anio": 2008,
+      "genero": "unisex",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "bergamota",
+          "limón",
+          "pimienta",
+          "enebro"
+        ],
+        "corazon": [
+          "incienso",
+          "agujas de pino",
+          "lirio"
+        ],
+        "fondo": [
+          "ámbar",
+          "vainilla",
+          "sándalo"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario"
+      ],
+      "descripcion": "Pino, incienso y vainilla suave: huele a bosque, a hoguera lejana y a libertad. Ideal para primavera y otoño. Comparte estilo con Santal 33.",
+      "marca": "Byredo"
+    },
+    {
+      "nombre": "Mojave Ghost",
+      "anio": 2014,
+      "genero": "unisex",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "ambreta",
+          "zapote"
+        ],
+        "corazon": [
+          "magnolia",
+          "violeta",
+          "sándalo"
+        ],
+        "fondo": [
+          "ámbar",
+          "cedro",
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Magnolia, sándalo y almizcle: suave, etéreo y limpio, como el desierto al amanecer. Ideal para todo el año. Comparte estilo con Another 13 y Fleur de Peau.",
+      "marca": "Byredo"
+    },
+    {
+      "nombre": "Super Cedar",
+      "anio": 2016,
+      "genero": "unisex",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "rosa"
+        ],
+        "corazon": [
+          "cedro"
+        ],
+        "fondo": [
+          "vetiver",
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Cedro limpio con un toque de rosa: madera de lápiz, minimalista y muy discreta. Ideal para la oficina. Comparte estilo con Burberry Hero y Santal 33.",
+      "marca": "Byredo"
+    }
+  ]
+}
