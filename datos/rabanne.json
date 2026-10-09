@@ -1,0 +1,223 @@
+{
+  "marca": "Rabanne",
+  "tipo": "Diseñador",
+  "estilo": "Antes Paco Rabanne. Audacia y brillo: perfumes magnéticos en frascos icónicos, del lingote al robot.",
+  "perfumes": [
+    {
+      "nombre": "1 Million",
+      "anio": 2008,
+      "genero": "masculino",
+      "familia": "Especiada",
+      "notas": {
+        "salida": [
+          "pomelo",
+          "menta",
+          "mandarina"
+        ],
+        "corazon": [
+          "canela",
+          "rosa",
+          "especias"
+        ],
+        "fondo": [
+          "cuero",
+          "ámbar",
+          "pachulí",
+          "maderas"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "Parfum",
+        "Elixir"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche"
+      ],
+      "descripcion": "Canela, cuero dulce y ámbar: llamativo, festivo y muy de discoteca. Ideal para noches de otoño e invierno. Comparte estilo con Ultra Male y The Most Wanted.",
+      "marca": "Rabanne"
+    },
+    {
+      "nombre": "Invictus",
+      "anio": 2013,
+      "genero": "masculino",
+      "familia": "Acuática",
+      "notas": {
+        "salida": [
+          "pomelo",
+          "notas marinas",
+          "mandarina"
+        ],
+        "corazon": [
+          "laurel",
+          "jazmín"
+        ],
+        "fondo": [
+          "guayaco",
+          "musgo de roble",
+          "pachulí",
+          "ámbar gris"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "Intense",
+        "Platinum"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "noche"
+      ],
+      "descripcion": "Pomelo y brisa marina con un fondo dulce de ámbar: deportivo, juvenil y de mucha estela. Ideal para verano, salidas y el día a día. Comparte estilo con Eros y Dylan Blue.",
+      "marca": "Rabanne"
+    },
+    {
+      "nombre": "Lady Million",
+      "anio": 2010,
+      "genero": "femenino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "frambuesa",
+          "neroli",
+          "limón"
+        ],
+        "corazon": [
+          "jazmín",
+          "gardenia",
+          "azahar"
+        ],
+        "fondo": [
+          "miel",
+          "pachulí",
+          "ámbar"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Frambuesa, flores blancas y miel: dulce, glamuroso y festivo. Ideal para noches y salidas en otoño e invierno. Comparte estilo con Scandal y Flora Gorgeous Gardenia.",
+      "marca": "Rabanne"
+    },
+    {
+      "nombre": "Olympéa",
+      "anio": 2015,
+      "genero": "femenino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "mandarina verde",
+          "jazmín de agua"
+        ],
+        "corazon": [
+          "flor de jengibre"
+        ],
+        "fondo": [
+          "vainilla salada",
+          "sándalo",
+          "ámbar gris"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Vainilla salada con jazmín acuático: un ambarado luminoso, cálido y con un toque de playa. Ideal para primavera, verano y citas. Comparte estilo con Libre y Le Beau en su lado salado.",
+      "marca": "Rabanne"
+    },
+    {
+      "nombre": "Paco Rabanne Pour Homme",
+      "anio": 1973,
+      "genero": "masculino",
+      "familia": "Fougère",
+      "notas": {
+        "salida": [
+          "lavanda",
+          "romero",
+          "salvia"
+        ],
+        "corazon": [
+          "geranio"
+        ],
+        "fondo": [
+          "musgo de roble",
+          "ámbar",
+          "miel"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "primavera",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Lavanda, romero y musgo con un toque de miel: un fougère clásico de barbería, limpio y masculino. Ideal para primavera, otoño y la oficina. Comparte estilo con Azzaro Pour Homme y Égoïste Platinum.",
+      "marca": "Rabanne"
+    },
+    {
+      "nombre": "Phantom",
+      "anio": 2021,
+      "genero": "masculino",
+      "familia": "Aromática",
+      "notas": {
+        "salida": [
+          "limón",
+          "lavanda"
+        ],
+        "corazon": [
+          "manzana"
+        ],
+        "fondo": [
+          "vainilla",
+          "vetiver",
+          "pachulí"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "Parfum",
+        "Intense"
+      ],
+      "temporadas": [
+        "primavera",
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Lavanda limpia y limón con vainilla: moderno, cremoso y fácil de llevar. Ideal para otoño, primavera y el día a día. Comparte estilo con Le Male y Legend Night.",
+      "marca": "Rabanne"
+    }
+  ]
+}

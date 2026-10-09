@@ -1,0 +1,233 @@
+{
+  "marca": "Giorgio Armani",
+  "tipo": "Diseñador",
+  "estilo": "Sofisticación italiana relajada: frescuras marinas luminosas y elegancia discreta.",
+  "perfumes": [
+    {
+      "nombre": "Acqua di Giò",
+      "anio": 1996,
+      "genero": "masculino",
+      "familia": "Acuática",
+      "notas": {
+        "salida": [
+          "lima",
+          "limón",
+          "bergamota",
+          "mandarina",
+          "neroli"
+        ],
+        "corazon": [
+          "notas marinas",
+          "jazmín",
+          "romero",
+          "durazno",
+          "fresia",
+          "cilantro"
+        ],
+        "fondo": [
+          "almizcle",
+          "cedro",
+          "musgo de roble",
+          "pachulí",
+          "ámbar"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "EDP",
+        "Parfum"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Brisa marina, cítricos y un fondo suave de musgo: el perfume de verano más clásico de los noventa. Ideal para el calor, la playa, el trabajo y el día a día. Comparte estilo con L'Eau d'Issey pour Homme y Chrome de Azzaro.",
+      "marca": "Giorgio Armani"
+    },
+    {
+      "nombre": "Acqua di Giò Profumo",
+      "anio": 2015,
+      "genero": "masculino",
+      "familia": "Acuática",
+      "notas": {
+        "salida": [
+          "notas marinas",
+          "bergamota"
+        ],
+        "corazon": [
+          "geranio",
+          "salvia",
+          "romero"
+        ],
+        "fondo": [
+          "incienso",
+          "pachulí"
+        ]
+      },
+      "concentraciones": [
+        "Parfum"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina",
+        "citas"
+      ],
+      "descripcion": "La versión más oscura y elegante de Acqua di Giò: mar salado con incienso ahumado. Funciona en primavera, verano y noches templadas. Se parece a Dylan Blue y a Bleu de Chanel en su lado incensado.",
+      "marca": "Giorgio Armani"
+    },
+    {
+      "nombre": "Armani Code",
+      "anio": 2004,
+      "genero": "masculino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "limón",
+          "bergamota"
+        ],
+        "corazon": [
+          "anís estrellado",
+          "flor de olivo",
+          "guayaco"
+        ],
+        "fondo": [
+          "cuero",
+          "haba tonka",
+          "tabaco"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "EDP",
+        "Parfum"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Anís, haba tonka y un toque de tabaco: un ambarado suave, seductor y nocturno. Ideal para citas y noches en otoño e invierno. Comparte la sensualidad de Le Male y de La Nuit de L'Homme.",
+      "marca": "Giorgio Armani"
+    },
+    {
+      "nombre": "My Way",
+      "anio": 2020,
+      "genero": "femenino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "bergamota",
+          "azahar"
+        ],
+        "corazon": [
+          "tuberosa",
+          "jazmín"
+        ],
+        "fondo": [
+          "vainilla",
+          "cedro",
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Flores blancas luminosas sobre vainilla y almizcle limpio: alegre, suave y moderno. Ideal para el día y la oficina en primavera y verano. Comparte estilo con Gabrielle de Chanel y J'adore.",
+      "marca": "Giorgio Armani"
+    },
+    {
+      "nombre": "Sì",
+      "anio": 2013,
+      "genero": "femenino",
+      "familia": "Chipre",
+      "notas": {
+        "salida": [
+          "grosella negra"
+        ],
+        "corazon": [
+          "rosa de mayo",
+          "fresia"
+        ],
+        "fondo": [
+          "vainilla",
+          "pachulí",
+          "maderas"
+        ]
+      },
+      "concentraciones": [
+        "EDP",
+        "Intense"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas",
+        "eventos formales"
+      ],
+      "descripcion": "Grosella negra jugosa, rosa y vainilla sobre pachulí: elegante, cálido y con carácter. Funciona en otoño e invierno, de la oficina a una cena. Pariente de Coco Mademoiselle y de La Vie est Belle.",
+      "marca": "Giorgio Armani"
+    },
+    {
+      "nombre": "Stronger With You",
+      "anio": 2017,
+      "genero": "masculino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "cardamomo",
+          "pimienta rosa",
+          "menta",
+          "hoja de violeta"
+        ],
+        "corazon": [
+          "salvia"
+        ],
+        "fondo": [
+          "castaña",
+          "vainilla",
+          "cedro"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "Intensely",
+        "Absolutely"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Castaña confitada y vainilla con un inicio fresco de cardamomo y menta: dulce, cálido y muy agradable. Ideal para otoño e invierno, de día y de noche. Se parece a By the Fireplace de Maison Margiela y a Bad Boy de Carolina Herrera.",
+      "marca": "Giorgio Armani"
+    }
+  ]
+}

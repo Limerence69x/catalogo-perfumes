@@ -1,0 +1,172 @@
+{
+  "marca": "Carolina Herrera",
+  "tipo": "Diseñador",
+  "estilo": "Elegancia venezolana-neoyorquina: tuberosa, cacao y gourmands sofisticados con frascos icónicos.",
+  "perfumes": [
+    {
+      "nombre": "212 VIP Black",
+      "anio": 2017,
+      "genero": "masculino",
+      "familia": "Fougère",
+      "notas": {
+        "salida": [
+          "absenta",
+          "anís",
+          "hinojo"
+        ],
+        "corazon": [
+          "lavanda"
+        ],
+        "fondo": [
+          "vainilla negra",
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche"
+      ],
+      "descripcion": "Anís y absenta sobre lavanda y vainilla: un fougère dulce, oscuro y de fiesta. Pensado para salir de noche en los meses fríos. Recuerda a Le Male de Jean Paul Gaultier y a A*Men de Mugler en su faceta anisada.",
+      "marca": "Carolina Herrera"
+    },
+    {
+      "nombre": "212 VIP Men",
+      "anio": 2011,
+      "genero": "masculino",
+      "familia": "Especiada",
+      "notas": {
+        "salida": [
+          "lima",
+          "maracuyá",
+          "pimienta"
+        ],
+        "corazon": [
+          "jengibre",
+          "menta"
+        ],
+        "fondo": []
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "noche"
+      ],
+      "descripcion": "Lima y maracuyá chispeantes con menta fría y jengibre: huele a coctel en una fiesta. Es un perfume de discoteca y salidas, mejor en primavera y verano por la noche. Comparte el espíritu juvenil de Invictus y de Eros.",
+      "marca": "Carolina Herrera"
+    },
+    {
+      "nombre": "Bad Boy",
+      "anio": 2019,
+      "genero": "masculino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "pimienta blanca",
+          "pimienta negra",
+          "bergamota"
+        ],
+        "corazon": [
+          "salvia",
+          "cedro"
+        ],
+        "fondo": [
+          "haba tonka",
+          "cacao",
+          "ámbar"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "Le Parfum"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Pimienta fresca al inicio y un fondo dulce de cacao y haba tonka: moderno, cálido y fácil de gustar. Rinde mejor en otoño e invierno, de tarde y de noche. Se mueve cerca de Stronger With You y de The Most Wanted.",
+      "marca": "Carolina Herrera"
+    },
+    {
+      "nombre": "Good Girl",
+      "anio": 2016,
+      "genero": "femenino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "almendra",
+          "café"
+        ],
+        "corazon": [
+          "tuberosa",
+          "jazmín sambac"
+        ],
+        "fondo": [
+          "haba tonka",
+          "cacao"
+        ]
+      },
+      "concentraciones": [
+        "EDP",
+        "EDP Légère",
+        "Supreme"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Tuberosa y jazmín envueltos en cacao, café y haba tonka: elegante, oscuro y muy seductor. Ideal para noches de otoño e invierno, cenas y citas. Comparte ese contraste de flores blancas y café con Black Opium de Yves Saint Laurent.",
+      "marca": "Carolina Herrera"
+    },
+    {
+      "nombre": "Very Good Girl",
+      "anio": 2021,
+      "genero": "femenino",
+      "familia": "Floral afrutada",
+      "notas": {
+        "salida": [
+          "grosella roja"
+        ],
+        "corazon": [
+          "rosa"
+        ],
+        "fondo": [
+          "vainilla"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Grosella roja ácida, rosa y vainilla: una versión más jugosa, rosada y divertida de Good Girl. Funciona de día en primavera y otoño y en citas informales. Recuerda a Burberry Her y a Lady Million en su lado afrutado.",
+      "marca": "Carolina Herrera"
+    }
+  ]
+}

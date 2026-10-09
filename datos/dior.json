@@ -1,0 +1,307 @@
+{
+  "marca": "Dior",
+  "tipo": "Diseñador",
+  "estilo": "Lujo parisino: frescuras icónicas, florales sofisticados y la colección privada de la casa.",
+  "perfumes": [
+    {
+      "nombre": "Dior Homme Intense",
+      "anio": 2011,
+      "genero": "masculino",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "lavanda"
+        ],
+        "corazon": [
+          "iris",
+          "ámbar",
+          "pera"
+        ],
+        "fondo": [
+          "vetiver",
+          "cedro"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche",
+        "eventos formales"
+      ],
+      "descripcion": "Iris polvoso y cálido con un toque de pera y maderas: huele a lápiz labial, cachemira y elegancia. Ideal para noches, citas y eventos formales en otoño e invierno. Se parece a L'Homme Prada y a Gentleman de Givenchy, más denso.",
+      "marca": "Dior"
+    },
+    {
+      "nombre": "Eau Sauvage",
+      "anio": 1966,
+      "genero": "masculino",
+      "familia": "Cítrica",
+      "notas": {
+        "salida": [
+          "limón",
+          "albahaca",
+          "romero",
+          "bergamota"
+        ],
+        "corazon": [
+          "jazmín"
+        ],
+        "fondo": [
+          "vetiver",
+          "musgo de roble"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "Parfum"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Una colonia cítrica y aromática, con limón, albahaca y un fondo de musgo: elegante y atemporal. Perfecta para el verano, el trabajo y el día a día. Hermana clásica de Neroli Portofino y de Eau d'Orange Verte de Hermès.",
+      "marca": "Dior"
+    },
+    {
+      "nombre": "Fahrenheit",
+      "anio": 1988,
+      "genero": "masculino",
+      "familia": "Cuero",
+      "notas": {
+        "salida": [
+          "lavanda",
+          "mandarina",
+          "bergamota",
+          "nuez moscada"
+        ],
+        "corazon": [
+          "hoja de violeta",
+          "madreselva",
+          "cedro",
+          "sándalo"
+        ],
+        "fondo": [
+          "cuero",
+          "vetiver",
+          "almizcle",
+          "haba tonka",
+          "ámbar"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "Parfum"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Hoja de violeta y cuero con una sensación curiosa a gasolina y madera: único e inconfundible. Funciona mejor en otoño e invierno, de día o de noche. Comparte el tono de cuero suave de Tuscan Leather y Ombré Leather de Tom Ford.",
+      "marca": "Dior"
+    },
+    {
+      "nombre": "Hypnotic Poison",
+      "anio": 1998,
+      "genero": "femenino",
+      "familia": "Gourmand",
+      "notas": {
+        "salida": [
+          "coco",
+          "ciruela",
+          "albaricoque"
+        ],
+        "corazon": [
+          "jazmín",
+          "tuberosa",
+          "alcaravea"
+        ],
+        "fondo": [
+          "almendra",
+          "vainilla",
+          "sándalo",
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Almendra y vainilla con un toque especiado: oscuro, hipnótico y muy sensual. Pensado para noches de otoño e invierno. Precursor de gourmands como Black Opium y La Nuit Trésor.",
+      "marca": "Dior"
+    },
+    {
+      "nombre": "J'adore",
+      "anio": 1999,
+      "genero": "femenino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "pera",
+          "melón",
+          "bergamota",
+          "mandarina"
+        ],
+        "corazon": [
+          "jazmín",
+          "rosa",
+          "ylang-ylang",
+          "tuberosa"
+        ],
+        "fondo": [
+          "almizcle",
+          "vainilla",
+          "cedro"
+        ]
+      },
+      "concentraciones": [
+        "EDP",
+        "L'Or",
+        "Parfum d'Eau"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina",
+        "eventos formales"
+      ],
+      "descripcion": "Un bouquet dorado de flores blancas con fruta jugosa: luminoso, sedoso y muy femenino. Ideal para el día, la oficina y eventos formales en primavera y verano. Comparte el espíritu de Gabrielle de Chanel y My Way de Giorgio Armani.",
+      "marca": "Dior"
+    },
+    {
+      "nombre": "Miss Dior Blooming Bouquet",
+      "anio": 2014,
+      "genero": "femenino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "bergamota"
+        ],
+        "corazon": [
+          "peonía",
+          "rosa",
+          "durazno"
+        ],
+        "fondo": [
+          "almizcle blanco"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Peonía y rosa frescas con un toque de durazno y almizcle: delicado, tierno y primaveral. Ideal para el día y la oficina en primavera. Va en la línea de Chance Eau Tendre y de Irresistible de Givenchy.",
+      "marca": "Dior"
+    },
+    {
+      "nombre": "Oud Ispahan",
+      "anio": 2012,
+      "genero": "unisex",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "ládano"
+        ],
+        "corazon": [
+          "rosa"
+        ],
+        "fondo": [
+          "oud",
+          "pachulí",
+          "sándalo"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche",
+        "eventos formales"
+      ],
+      "descripcion": "Rosa oscura y oud ahumado con resinas: lujoso, profundo y de corte oriental. Perfecto para noches frías y ocasiones especiales. Comparte estilo con Oud Satin Mood de Maison Francis Kurkdjian y Rose 31 de Le Labo.",
+      "marca": "Dior"
+    },
+    {
+      "nombre": "Sauvage",
+      "anio": 2015,
+      "genero": "masculino",
+      "familia": "Aromática",
+      "notas": {
+        "salida": [
+          "bergamota",
+          "pimienta"
+        ],
+        "corazon": [
+          "pimienta de Sichuan",
+          "lavanda",
+          "pimienta rosa",
+          "vetiver",
+          "pachulí",
+          "geranio",
+          "elemí"
+        ],
+        "fondo": [
+          "ambroxán",
+          "cedro",
+          "ládano"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "EDP",
+        "Parfum",
+        "Elixir"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina",
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Bergamota jugosa y pimienta sobre un fondo de ambroxán que deja una estela fresca, mineral y muy potente. Funciona en cualquier época y ocasión, aunque el EDT brilla más en días cálidos. Comparte estilo con Bleu de Chanel, Y de Yves Saint Laurent y Dylan Blue.",
+      "marca": "Dior"
+    }
+  ]
+}

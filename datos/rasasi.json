@@ -1,0 +1,102 @@
+{
+  "marca": "Rasasi",
+  "tipo": "Árabe",
+  "estilo": "Casa de Dubái con perfumería de calidad: dulces acuáticos, cueros y ouds modernos.",
+  "perfumes": [
+    {
+      "nombre": "Hawas for Him",
+      "anio": 2015,
+      "genero": "masculino",
+      "familia": "Acuática",
+      "notas": {
+        "salida": [
+          "manzana",
+          "bergamota",
+          "limón",
+          "canela"
+        ],
+        "corazon": [
+          "ciruela",
+          "cardamomo",
+          "notas acuáticas",
+          "azahar"
+        ],
+        "fondo": [
+          "ámbar gris",
+          "almizcle",
+          "pachulí",
+          "maderas"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Manzana, notas acuáticas y ámbar gris: dulce, fresco y de mucha proyección. Ideal para verano y salidas nocturnas. Comparte estilo con Invictus y Eros.",
+      "marca": "Rasasi"
+    },
+    {
+      "nombre": "Hawas Ice",
+      "anio": 2022,
+      "genero": "masculino",
+      "familia": "Acuática",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "noche"
+      ],
+      "descripcion": "La versión más helada de Hawas: fresca, frutal y mentolada. Ideal para los días de mucho calor. Comparte estilo con Hawas for Him e Invictus.",
+      "marca": "Rasasi"
+    },
+    {
+      "nombre": "La Yuqawam pour Homme",
+      "anio": "",
+      "genero": "masculino",
+      "familia": "Cuero",
+      "notas": {
+        "salida": [
+          "frambuesa",
+          "azafrán",
+          "tomillo"
+        ],
+        "corazon": [
+          "cuero",
+          "jazmín"
+        ],
+        "fondo": [
+          "ámbar"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche"
+      ],
+      "descripcion": "Cuero, frambuesa y azafrán: animal y lujoso. Ideal para noches frías. Inspirado en Tuscan Leather de Tom Ford.",
+      "marca": "Rasasi"
+    }
+  ]
+}

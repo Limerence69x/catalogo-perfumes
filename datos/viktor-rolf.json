@@ -1,0 +1,177 @@
+{
+  "marca": "Viktor&Rolf",
+  "tipo": "Diseñador",
+  "estilo": "Fantasía de alta costura: explosiones florales y especiados de gran personalidad.",
+  "perfumes": [
+    {
+      "nombre": "Bonbon",
+      "anio": 2014,
+      "genero": "femenino",
+      "familia": "Gourmand",
+      "notas": {
+        "salida": [
+          "mandarina",
+          "naranja",
+          "durazno"
+        ],
+        "corazon": [
+          "caramelo",
+          "jazmín"
+        ],
+        "fondo": [
+          "guayaco",
+          "cedro",
+          "ámbar"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Caramelo, durazno y naranja: dulce, alegre y goloso. Ideal para otoño e invierno. Comparte estilo con Prada Candy y Angel.",
+      "marca": "Viktor&Rolf"
+    },
+    {
+      "nombre": "Flowerbomb",
+      "anio": 2005,
+      "genero": "femenino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "té",
+          "bergamota"
+        ],
+        "corazon": [
+          "jazmín sambac",
+          "orquídea",
+          "fresia",
+          "rosa"
+        ],
+        "fondo": [
+          "pachulí",
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "EDP",
+        "Nectar"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Una explosión de flores dulces sobre pachulí: romántico, azucarado y muy femenino. Ideal para citas y noches. Comparte estilo con La Vie est Belle y Good Girl.",
+      "marca": "Viktor&Rolf"
+    },
+    {
+      "nombre": "Good Fortune",
+      "anio": 2023,
+      "genero": "femenino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "hinojo"
+        ],
+        "corazon": [
+          "jazmín"
+        ],
+        "fondo": [
+          "vainilla bourbon"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Vainilla con jazmín y un toque anisado de hinojo: cálido, luminoso y moderno. Ideal para otoño e invierno. Comparte estilo con Libre y Donna Born in Roma.",
+      "marca": "Viktor&Rolf"
+    },
+    {
+      "nombre": "Spicebomb",
+      "anio": 2012,
+      "genero": "masculino",
+      "familia": "Especiada",
+      "notas": {
+        "salida": [
+          "pimienta rosa",
+          "bergamota",
+          "pomelo"
+        ],
+        "corazon": [
+          "azafrán",
+          "canela",
+          "chile"
+        ],
+        "fondo": [
+          "tabaco",
+          "cuero",
+          "vetiver"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Canela, chile y tabaco: especiado, cálido y explosivo. Ideal para otoño e invierno. Comparte estilo con Wanted by Night y Man in Black.",
+      "marca": "Viktor&Rolf"
+    },
+    {
+      "nombre": "Spicebomb Extreme",
+      "anio": 2015,
+      "genero": "masculino",
+      "familia": "Especiada",
+      "notas": {
+        "salida": [
+          "pimienta negra"
+        ],
+        "corazon": [
+          "comino",
+          "canela",
+          "lavanda"
+        ],
+        "fondo": [
+          "tabaco",
+          "vainilla"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Tabaco y vainilla con especias: más dulce, denso y cálido que Spicebomb. Ideal para noches frías. Comparte estilo con Tobacco Vanille de Tom Ford y Herod.",
+      "marca": "Viktor&Rolf"
+    }
+  ]
+}

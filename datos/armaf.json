@@ -1,0 +1,178 @@
+{
+  "marca": "Armaf",
+  "tipo": "Árabe",
+  "estilo": "Interpretaciones populares de grandes éxitos, con el célebre Club de Nuit Intense a la cabeza.",
+  "perfumes": [
+    {
+      "nombre": "Club de Nuit Intense Man",
+      "anio": 2015,
+      "genero": "masculino",
+      "familia": "Chipre",
+      "notas": {
+        "salida": [
+          "limón",
+          "piña",
+          "bergamota",
+          "grosella negra",
+          "manzana"
+        ],
+        "corazon": [
+          "abedul",
+          "jazmín",
+          "rosa"
+        ],
+        "fondo": [
+          "almizcle",
+          "ámbar gris",
+          "pachulí",
+          "vainilla"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "Parfum"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Limón, piña y abedul ahumado: afrutado, ahumado y de enorme proyección. Funciona en primavera, verano y otoño. Es la interpretación más famosa de Aventus de Creed.",
+      "marca": "Armaf"
+    },
+    {
+      "nombre": "Club de Nuit Milestone",
+      "anio": 2021,
+      "genero": "unisex",
+      "familia": "Acuática",
+      "notas": {
+        "salida": [
+          "notas marinas",
+          "bergamota"
+        ],
+        "corazon": [
+          "violeta"
+        ],
+        "fondo": [
+          "sándalo",
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Brisa marina con violeta y sándalo: fresco, salado y limpio. Ideal para el verano. Comparte estilo con Millésime Impérial de Creed.",
+      "marca": "Armaf"
+    },
+    {
+      "nombre": "Club de Nuit Untold",
+      "anio": 2023,
+      "genero": "unisex",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "azafrán",
+          "jazmín"
+        ],
+        "corazon": [
+          "madera ambarada",
+          "ámbar gris"
+        ],
+        "fondo": [
+          "resina de abeto",
+          "cedro"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Azafrán y madera ambarada con efecto de algodón de azúcar: aireado y luminoso. Funciona todo el año. Inspirado en Baccarat Rouge 540.",
+      "marca": "Armaf"
+    },
+    {
+      "nombre": "Odyssey Mandarin Sky",
+      "anio": 2023,
+      "genero": "masculino",
+      "familia": "Gourmand",
+      "notas": {
+        "salida": [
+          "mandarina"
+        ],
+        "corazon": [
+          "caramelo"
+        ],
+        "fondo": [
+          "haba tonka"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Mandarina con caramelo y haba tonka: dulce, alegre y de gran proyección. Ideal para otoño e invierno. Comparte estilo con The Most Wanted y Ultra Male.",
+      "marca": "Armaf"
+    },
+    {
+      "nombre": "Tres Nuit",
+      "anio": "",
+      "genero": "masculino",
+      "familia": "Fougère",
+      "notas": {
+        "salida": [
+          "limón"
+        ],
+        "corazon": [
+          "violeta",
+          "iris"
+        ],
+        "fondo": [
+          "sándalo",
+          "ámbar gris"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Limón, violeta y sándalo: verde, limpio y fresco. Ideal para primavera y verano. Inspirado en Green Irish Tweed de Creed.",
+      "marca": "Armaf"
+    }
+  ]
+}

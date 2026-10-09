@@ -1,0 +1,231 @@
+{
+  "marca": "Versace",
+  "tipo": "Diseñador",
+  "estilo": "Glamour mediterráneo desbordante: frescuras potentes y dulzor seductor.",
+  "perfumes": [
+    {
+      "nombre": "Bright Crystal",
+      "anio": 2006,
+      "genero": "femenino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "yuzu",
+          "granada"
+        ],
+        "corazon": [
+          "peonía",
+          "magnolia",
+          "loto"
+        ],
+        "fondo": [
+          "almizcle",
+          "caoba",
+          "ámbar"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Yuzu, granada y peonía: fresco, frutal y muy femenino. Ideal para primavera y verano. Comparte estilo con Omnia Crystalline y L'Eau d'Issey.",
+      "marca": "Versace"
+    },
+    {
+      "nombre": "Crystal Noir",
+      "anio": 2004,
+      "genero": "femenino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "pimienta",
+          "jengibre",
+          "cardamomo"
+        ],
+        "corazon": [
+          "coco",
+          "gardenia",
+          "peonía"
+        ],
+        "fondo": [
+          "sándalo",
+          "ámbar",
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche"
+      ],
+      "descripcion": "Gardenia, coco y especias sobre ámbar: misterioso, cremoso y nocturno. Ideal para noches de invierno. Comparte estilo con Alien y Euphoria.",
+      "marca": "Versace"
+    },
+    {
+      "nombre": "Dylan Blue",
+      "anio": 2016,
+      "genero": "masculino",
+      "familia": "Aromática",
+      "notas": {
+        "salida": [
+          "bergamota",
+          "pomelo",
+          "hoja de higuera",
+          "notas acuáticas"
+        ],
+        "corazon": [
+          "hoja de violeta",
+          "pimienta negra",
+          "pachulí",
+          "papiro",
+          "ambroxán"
+        ],
+        "fondo": [
+          "almizcle",
+          "incienso",
+          "haba tonka",
+          "azafrán"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Pomelo, notas acuáticas y ambroxán: fresco, mineral y potente. Ideal para el día a día en primavera y verano. Comparte estilo con Sauvage, Bleu de Chanel y Acqua di Giò Profumo.",
+      "marca": "Versace"
+    },
+    {
+      "nombre": "Eros",
+      "anio": 2012,
+      "genero": "masculino",
+      "familia": "Fougère",
+      "notas": {
+        "salida": [
+          "menta",
+          "manzana verde",
+          "limón"
+        ],
+        "corazon": [
+          "haba tonka",
+          "geranio",
+          "ambroxán"
+        ],
+        "fondo": [
+          "vainilla",
+          "vetiver",
+          "cedro",
+          "musgo de roble"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "EDP",
+        "Parfum"
+      ],
+      "temporadas": [
+        "primavera",
+        "otoño"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Menta helada, manzana verde y vainilla: dulce, fresco y de enorme proyección. Ideal para salidas y citas en primavera y otoño. Comparte estilo con Invictus y Hugo Man.",
+      "marca": "Versace"
+    },
+    {
+      "nombre": "Eros Flame",
+      "anio": 2018,
+      "genero": "masculino",
+      "familia": "Especiada",
+      "notas": {
+        "salida": [
+          "mandarina",
+          "naranja sanguina",
+          "pimienta negra",
+          "limón"
+        ],
+        "corazon": [
+          "rosa",
+          "geranio"
+        ],
+        "fondo": [
+          "vainilla",
+          "haba tonka",
+          "pachulí",
+          "cedro"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Naranja sanguina, pimienta y vainilla: cálido, especiado y vibrante. Ideal para otoño e invierno. Comparte estilo con Wanted by Night y 1 Million.",
+      "marca": "Versace"
+    },
+    {
+      "nombre": "Versace pour Homme",
+      "anio": 2008,
+      "genero": "masculino",
+      "familia": "Aromática",
+      "notas": {
+        "salida": [
+          "limón",
+          "neroli",
+          "bergamota"
+        ],
+        "corazon": [
+          "salvia",
+          "cedro",
+          "geranio"
+        ],
+        "fondo": [
+          "haba tonka",
+          "almizcle",
+          "ámbar"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Limón y neroli sobre almizcle limpio: fresco, elegante y muy discreto. Ideal para la oficina en primavera y verano. Comparte estilo con Light Blue pour Homme y Allure Homme Sport.",
+      "marca": "Versace"
+    }
+  ]
+}

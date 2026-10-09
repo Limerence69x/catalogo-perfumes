@@ -1,0 +1,177 @@
+{
+  "marca": "Burberry",
+  "tipo": "Diseñador",
+  "estilo": "Clasicismo británico: frescuras urbanas, frutos rojos y maderas al estilo londinense.",
+  "perfumes": [
+    {
+      "nombre": "Burberry Brit for Him",
+      "anio": 2004,
+      "genero": "masculino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "bergamota",
+          "mandarina",
+          "cardamomo"
+        ],
+        "corazon": [
+          "jengibre",
+          "nuez moscada"
+        ],
+        "fondo": [
+          "haba tonka",
+          "cedro"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Especias suaves y haba tonka en un ambarado cómodo, cremoso y sin estridencias. Ideal para el uso diario en los meses fríos. Comparte la calidez tranquila de Boss Bottled y de Pi de Givenchy.",
+      "marca": "Burberry"
+    },
+    {
+      "nombre": "Burberry Goddess",
+      "anio": 2023,
+      "genero": "femenino",
+      "familia": "Gourmand",
+      "notas": {
+        "salida": [
+          "lavanda"
+        ],
+        "corazon": [],
+        "fondo": [
+          "vainilla"
+        ]
+      },
+      "concentraciones": [
+        "EDP",
+        "EDP Intense"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Lavanda aromática fundida con mucha vainilla: un gourmand suave, cálido y muy reconfortante. Perfecto para otoño e invierno, para el día o para una cena. Si te gusta Libre de Yves Saint Laurent o Mon Guerlain, va por ese camino de lavanda con vainilla.",
+      "marca": "Burberry"
+    },
+    {
+      "nombre": "Burberry Her",
+      "anio": 2018,
+      "genero": "femenino",
+      "familia": "Floral afrutada",
+      "notas": {
+        "salida": [
+          "fresa",
+          "frambuesa",
+          "mora",
+          "cereza",
+          "grosella negra"
+        ],
+        "corazon": [
+          "violeta",
+          "jazmín"
+        ],
+        "fondo": [
+          "almizcle",
+          "maderas"
+        ]
+      },
+      "concentraciones": [
+        "EDP",
+        "EDT"
+      ],
+      "temporadas": [
+        "primavera",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Una explosión de frutos rojos jugosos con un corazón floral de violeta: dulce pero desenfadado y juvenil. Ideal para primavera y otoño, de día o en una cita informal. Va en la línea de Mon Paris de Yves Saint Laurent y de Yara de Lattafa.",
+      "marca": "Burberry"
+    },
+    {
+      "nombre": "Burberry Hero",
+      "anio": 2021,
+      "genero": "masculino",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "bergamota"
+        ],
+        "corazon": [
+          "enebro",
+          "pimienta negra"
+        ],
+        "fondo": [
+          "cedro"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Cedro seco y limpio con bergamota y pimienta: un amaderado moderno, sobrio y fácil de llevar. Funciona en casi cualquier época, especialmente en la oficina y el día a día. Recuerda a Bleu de Chanel en versión más leñosa y a Burberry London en su faceta seca.",
+      "marca": "Burberry"
+    },
+    {
+      "nombre": "Burberry London for Men",
+      "anio": 2006,
+      "genero": "masculino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "lavanda",
+          "bergamota",
+          "canela"
+        ],
+        "corazon": [
+          "cuero",
+          "mimosa"
+        ],
+        "fondo": [
+          "tabaco",
+          "opopónaco",
+          "musgo de roble"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Tabaco, canela y cuero suave crean un aroma cálido de abrigo de lana y chimenea. Brilla en otoño e invierno, tanto de día como de noche. Cercano a By the Fireplace de Maison Margiela y a Tobacco Vanille, aunque más seco y discreto.",
+      "marca": "Burberry"
+    }
+  ]
+}

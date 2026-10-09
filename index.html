@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Esencia · Catálogo de perfumes</title>
+  <meta name="description" content="Catálogo de perfumes de diseñador, nicho y árabes, con notas, familias olfativas y recomendaciones.">
+  <meta name="theme-color" content="#15120f">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <header class="cabecera">
+    <div class="cabecera-fila">
+      <a href="#/" class="logo" aria-label="Ir al inicio">
+        <span class="logo-nombre">Esencia</span>
+        <span class="logo-sub">Catálogo de perfumes</span>
+      </a>
+      <nav class="menu" aria-label="Secciones">
+        <a href="#/" data-ruta="inicio">Marcas</a>
+        <a href="#/explorar" data-ruta="explorar">Explorar</a>
+        <a href="#/listas" data-ruta="listas">Mis listas <span id="contador-listas" class="contador"></span></a>
+      </nav>
+    </div>
+    <form class="buscador" role="search" id="form-busqueda">
+      <svg aria-hidden="true" viewBox="0 0 24 24" class="icono-lupa"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
+      <input type="search" id="busqueda" placeholder="Buscar perfume o marca…" autocomplete="off" aria-label="Buscar perfume o marca">
+    </form>
+  </header>
+
+  <main id="contenido" tabindex="-1">
+    <p class="cargando">Cargando catálogo…</p>
+  </main>
+
+  <footer class="pie">
+    <p>Catálogo informativo, sin precios. Las descripciones son originales; los datos no confirmados se dejan en blanco.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

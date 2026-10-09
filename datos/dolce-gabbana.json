@@ -1,0 +1,233 @@
+{
+  "marca": "Dolce & Gabbana",
+  "tipo": "Diseñador",
+  "estilo": "Sensualidad mediterránea: limones de Sicilia, sol y florales seductores.",
+  "perfumes": [
+    {
+      "nombre": "K by Dolce & Gabbana",
+      "anio": 2019,
+      "genero": "masculino",
+      "familia": "Aromática",
+      "notas": {
+        "salida": [
+          "naranja sanguina",
+          "enebro",
+          "limón de Sicilia"
+        ],
+        "corazon": [
+          "pimiento",
+          "salvia",
+          "geranio",
+          "lavanda"
+        ],
+        "fondo": [
+          "cedro",
+          "vetiver",
+          "pachulí"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Cítricos jugosos con un toque vegetal de pimiento y lavanda, sobre maderas secas: moderno y diferente. Funciona de día en primavera, verano y otoño. Comparte estilo aromático con Sauvage y Burberry Hero.",
+      "marca": "Dolce & Gabbana"
+    },
+    {
+      "nombre": "Light Blue",
+      "anio": 2001,
+      "genero": "femenino",
+      "familia": "Cítrica",
+      "notas": {
+        "salida": [
+          "limón de Sicilia",
+          "manzana",
+          "cedro",
+          "campánula"
+        ],
+        "corazon": [
+          "bambú",
+          "jazmín",
+          "rosa blanca"
+        ],
+        "fondo": [
+          "cedro",
+          "ámbar",
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "Intense"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Limón y manzana verde con un fondo de cedro: huele a vacaciones en el Mediterráneo. Imprescindible para el verano, la playa y el día a día. Comparte frescura con Omnia Crystalline de Bvlgari y Bright Crystal de Versace.",
+      "marca": "Dolce & Gabbana"
+    },
+    {
+      "nombre": "Light Blue pour Homme",
+      "anio": 2007,
+      "genero": "masculino",
+      "familia": "Cítrica",
+      "notas": {
+        "salida": [
+          "pomelo",
+          "bergamota",
+          "mandarina",
+          "enebro"
+        ],
+        "corazon": [
+          "pimienta",
+          "romero",
+          "palo de rosa"
+        ],
+        "fondo": [
+          "almizcle",
+          "incienso",
+          "musgo de roble"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "Intense"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Pomelo y enebro chispeantes sobre un fondo limpio de almizcle e incienso suave: fresco, salado y sencillo. Ideal para el calor y el uso diario. Se parece a Acqua di Giò y a Allure Homme Sport.",
+      "marca": "Dolce & Gabbana"
+    },
+    {
+      "nombre": "The One",
+      "anio": 2006,
+      "genero": "femenino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "bergamota",
+          "mandarina",
+          "lichi",
+          "durazno"
+        ],
+        "corazon": [
+          "lirio",
+          "jazmín",
+          "ciruela",
+          "lirio de los valles"
+        ],
+        "fondo": [
+          "vainilla",
+          "ámbar",
+          "almizcle",
+          "vetiver"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche",
+        "eventos formales"
+      ],
+      "descripcion": "Fruta dorada y flores sobre un fondo cálido de vainilla y ámbar: sensual, elegante y luminoso. Perfecto para noches y eventos formales en los meses fríos. Comparte calidez con Trésor de Lancôme y Shalimar de Guerlain.",
+      "marca": "Dolce & Gabbana"
+    },
+    {
+      "nombre": "The One for Men",
+      "anio": 2008,
+      "genero": "masculino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "pomelo",
+          "cilantro",
+          "albahaca"
+        ],
+        "corazon": [
+          "jengibre",
+          "cardamomo",
+          "azahar"
+        ],
+        "fondo": [
+          "tabaco",
+          "ámbar",
+          "cedro"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche",
+        "eventos formales"
+      ],
+      "descripcion": "Tabaco dulce, ámbar y especias suaves: un perfume cálido, elegante y de cercanía. Ideal para cenas, citas y eventos en otoño e invierno. Comparte la elegancia tabacosa de Burberry London y de Herod de Parfums de Marly.",
+      "marca": "Dolce & Gabbana"
+    },
+    {
+      "nombre": "The Only One",
+      "anio": 2018,
+      "genero": "femenino",
+      "familia": "Gourmand",
+      "notas": {
+        "salida": [
+          "violeta",
+          "bergamota"
+        ],
+        "corazon": [
+          "café",
+          "iris"
+        ],
+        "fondo": [
+          "vainilla",
+          "pachulí"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Violeta empolvada y café cremoso sobre vainilla: dulce, coqueto y muy femenino. Ideal para noches de otoño e invierno. Se parece a Black Opium de Yves Saint Laurent en versión más floral y empolvada.",
+      "marca": "Dolce & Gabbana"
+    }
+  ]
+}

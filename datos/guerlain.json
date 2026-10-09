@@ -1,0 +1,224 @@
+{
+  "marca": "Guerlain",
+  "tipo": "Diseñador",
+  "estilo": "Una de las casas más antiguas de Francia: vainilla, iris y la firma «guerlinade».",
+  "perfumes": [
+    {
+      "nombre": "Habit Rouge",
+      "anio": 1965,
+      "genero": "masculino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "bergamota",
+          "limón",
+          "naranja"
+        ],
+        "corazon": [
+          "rosa",
+          "canela"
+        ],
+        "fondo": [
+          "vainilla",
+          "cuero",
+          "benjuí"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina",
+        "eventos formales"
+      ],
+      "descripcion": "Cítricos, rosa y vainilla polvosa: un ambarado masculino, señorial y de otra época. Perfecto para otoño e invierno, en la oficina o en eventos. Es la versión masculina de Shalimar y pariente de Obsession for Men.",
+      "marca": "Guerlain"
+    },
+    {
+      "nombre": "L'Homme Idéal",
+      "anio": 2014,
+      "genero": "masculino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "almendra",
+          "bergamota",
+          "romero"
+        ],
+        "corazon": [
+          "haba tonka"
+        ],
+        "fondo": [
+          "cuero",
+          "vetiver",
+          "cedro"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "EDP",
+        "Parfum"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Almendra amarga tipo amaretto con haba tonka y cuero suave: cálido, licoroso y elegante. Ideal para otoño e invierno, de tarde y noche. Comparte estilo con Pegasus de Parfums de Marly y Pi de Givenchy.",
+      "marca": "Guerlain"
+    },
+    {
+      "nombre": "La Petite Robe Noire",
+      "anio": 2012,
+      "genero": "femenino",
+      "familia": "Gourmand",
+      "notas": {
+        "salida": [
+          "cereza negra",
+          "almendra",
+          "bergamota"
+        ],
+        "corazon": [
+          "rosa"
+        ],
+        "fondo": [
+          "té negro",
+          "pachulí",
+          "vainilla"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Cereza negra, almendra y rosa sobre té y vainilla: coqueto, dulce y parisino. Ideal para citas y noches en otoño e invierno. Se parece a Lost Cherry de Tom Ford en versión más accesible.",
+      "marca": "Guerlain"
+    },
+    {
+      "nombre": "Mon Guerlain",
+      "anio": 2017,
+      "genero": "femenino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "lavanda",
+          "bergamota"
+        ],
+        "corazon": [
+          "jazmín sambac",
+          "iris"
+        ],
+        "fondo": [
+          "vainilla",
+          "sándalo",
+          "cumarina"
+        ]
+      },
+      "concentraciones": [
+        "EDP",
+        "Intense"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina",
+        "citas"
+      ],
+      "descripcion": "Lavanda y vainilla cremosas con jazmín: suave, elegante y reconfortante. Ideal para otoño e invierno, en el día a día y la oficina. Comparte estilo con Libre de Yves Saint Laurent y Burberry Goddess.",
+      "marca": "Guerlain"
+    },
+    {
+      "nombre": "Shalimar",
+      "anio": 1925,
+      "genero": "femenino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "bergamota",
+          "limón"
+        ],
+        "corazon": [
+          "iris",
+          "jazmín",
+          "rosa"
+        ],
+        "fondo": [
+          "vainilla",
+          "haba tonka",
+          "incienso",
+          "opopónaco"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "EDP",
+        "Parfum"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche",
+        "eventos formales"
+      ],
+      "descripcion": "Bergamota brillante y vainilla ahumada con resinas: el ambarado clásico por excelencia. Ideal para noches elegantes y eventos en otoño e invierno. Comparte linaje con Habit Rouge y N°5 de Chanel.",
+      "marca": "Guerlain"
+    },
+    {
+      "nombre": "Vétiver",
+      "anio": "",
+      "genero": "masculino",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "bergamota",
+          "limón"
+        ],
+        "corazon": [
+          "vetiver",
+          "nuez moscada",
+          "pimienta"
+        ],
+        "fondo": [
+          "tabaco"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Vetiver terroso y limpio con cítricos y un toque de tabaco: sobrio, elegante y muy natural. Ideal para la oficina y el día en casi cualquier época. Comparte sobriedad con Terre d'Hermès y Bvlgari pour Homme.",
+      "marca": "Guerlain"
+    }
+  ]
+}

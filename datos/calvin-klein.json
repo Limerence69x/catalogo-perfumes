@@ -1,0 +1,233 @@
+{
+  "marca": "Calvin Klein",
+  "tipo": "Diseñador",
+  "estilo": "Minimalismo neoyorquino: frescuras limpias y unisex, emblema de los años noventa.",
+  "perfumes": [
+    {
+      "nombre": "CK Be",
+      "anio": 1996,
+      "genero": "unisex",
+      "familia": "Almizclada",
+      "notas": {
+        "salida": [
+          "bergamota",
+          "lavanda",
+          "menta"
+        ],
+        "corazon": [
+          "magnolia"
+        ],
+        "fondo": [
+          "almizcle",
+          "sándalo"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Un almizcle suave y algo lácteo con lavanda y menta, íntimo y muy cercano a la piel. Ideal para el día a día en primavera y verano. Es el hermano más suave y almizclado de CK One.",
+      "marca": "Calvin Klein"
+    },
+    {
+      "nombre": "CK One",
+      "anio": 1994,
+      "genero": "unisex",
+      "familia": "Cítrica",
+      "notas": {
+        "salida": [
+          "bergamota",
+          "limón",
+          "mandarina",
+          "piña",
+          "papaya",
+          "cardamomo"
+        ],
+        "corazon": [
+          "té verde",
+          "jazmín",
+          "rosa",
+          "violeta",
+          "nuez moscada"
+        ],
+        "fondo": [
+          "almizcle",
+          "ámbar",
+          "cedro",
+          "sándalo",
+          "musgo de roble"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Cítricos y té verde sobre almizcle limpio: el clásico aroma de camiseta blanca recién lavada, compartible entre todos. Perfecto para el calor, el día a día y la oficina. Pariente de CK Be y de Eau Parfumée au Thé Vert de Bvlgari.",
+      "marca": "Calvin Klein"
+    },
+    {
+      "nombre": "Eternity",
+      "anio": 1988,
+      "genero": "femenino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "fresia",
+          "mandarina",
+          "salvia"
+        ],
+        "corazon": [
+          "lirio",
+          "rosa",
+          "clavel"
+        ],
+        "fondo": [
+          "sándalo",
+          "pachulí",
+          "ámbar",
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina",
+        "eventos formales"
+      ],
+      "descripcion": "Un ramo floral blanco y limpio, sereno y romántico, con un fondo suave de sándalo. Ideal para primavera, el trabajo y eventos de día como bodas. Comparte esa elegancia limpia con Trésor de Lancôme y J'adore de Dior.",
+      "marca": "Calvin Klein"
+    },
+    {
+      "nombre": "Eternity for Men",
+      "anio": 1989,
+      "genero": "masculino",
+      "familia": "Fougère",
+      "notas": {
+        "salida": [
+          "lavanda",
+          "limón",
+          "mandarina",
+          "bergamota"
+        ],
+        "corazon": [
+          "salvia",
+          "albahaca",
+          "geranio",
+          "jazmín"
+        ],
+        "fondo": [
+          "sándalo",
+          "vetiver",
+          "ámbar",
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Lavanda y salvia muy limpias con un fondo amaderado suave: huele a hombre pulcro y recién duchado. Un perfume de oficina por excelencia en primavera y otoño. Comparte estilo con Azzaro Pour Homme y Égoïste Platinum de Chanel.",
+      "marca": "Calvin Klein"
+    },
+    {
+      "nombre": "Euphoria",
+      "anio": 2005,
+      "genero": "femenino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "granada",
+          "caqui",
+          "notas verdes"
+        ],
+        "corazon": [
+          "orquídea",
+          "loto"
+        ],
+        "fondo": [
+          "ámbar",
+          "maderas",
+          "violeta"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Fruta oscura y orquídea sobre un ámbar cremoso: misterioso, seductor y algo dulce. Ideal para la noche en otoño e invierno. Se parece a Black Orchid de Tom Ford en versión más accesible y afrutada.",
+      "marca": "Calvin Klein"
+    },
+    {
+      "nombre": "Obsession for Men",
+      "anio": 1986,
+      "genero": "masculino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "mandarina",
+          "lavanda",
+          "bergamota"
+        ],
+        "corazon": [
+          "nuez moscada",
+          "salvia"
+        ],
+        "fondo": [
+          "ámbar",
+          "vainilla",
+          "sándalo",
+          "pachulí",
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Un ambarado especiado y avainillado de estilo ochentero, cálido y envolvente. Funciona mejor en otoño e invierno, por la noche. Comparte ADN con Le Male de Jean Paul Gaultier y con Habit Rouge de Guerlain.",
+      "marca": "Calvin Klein"
+    }
+  ]
+}

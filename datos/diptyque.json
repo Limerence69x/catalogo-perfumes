@@ -1,0 +1,198 @@
+{
+  "marca": "Diptyque",
+  "tipo": "Nicho",
+  "estilo": "Bohemia parisina desde 1961: naturalismo poético con higueras, rosas y maderas.",
+  "perfumes": [
+    {
+      "nombre": "Do Son",
+      "anio": 2005,
+      "genero": "femenino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "tuberosa"
+        ],
+        "corazon": [
+          "rosa",
+          "azahar"
+        ],
+        "fondo": [
+          "benjuí",
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Tuberosa marina y luminosa: fresco, femenino y elegante. Ideal para primavera y verano. Comparte estilo con Twilly d'Hermès.",
+      "marca": "Diptyque"
+    },
+    {
+      "nombre": "Fleur de Peau",
+      "anio": 2018,
+      "genero": "unisex",
+      "familia": "Almizclada",
+      "notas": {
+        "salida": [
+          "pimienta rosa"
+        ],
+        "corazon": [
+          "iris",
+          "ambreta"
+        ],
+        "fondo": [
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Almizcle e iris: piel limpia, suave y elegante. Ideal para todo el año. Comparte estilo con Another 13.",
+      "marca": "Diptyque"
+    },
+    {
+      "nombre": "L'Ombre dans l'Eau",
+      "anio": 1983,
+      "genero": "femenino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "hoja de grosella negra"
+        ],
+        "corazon": [
+          "rosa"
+        ],
+        "fondo": []
+      },
+      "concentraciones": [
+        "EDT",
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario"
+      ],
+      "descripcion": "Rosa y hoja de grosella negra: verde, ácido y romántico. Ideal para primavera. Comparte estilo con À la rose.",
+      "marca": "Diptyque"
+    },
+    {
+      "nombre": "Orphéon",
+      "anio": 2021,
+      "genero": "unisex",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "enebro"
+        ],
+        "corazon": [
+          "jazmín"
+        ],
+        "fondo": [
+          "cedro",
+          "haba tonka"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Enebro, jazmín y cedro: limpio, sofisticado y suave, como un bar parisino. Ideal para la oficina. Comparte estilo con Gentle Fluidity Silver.",
+      "marca": "Diptyque"
+    },
+    {
+      "nombre": "Philosykos",
+      "anio": 1996,
+      "genero": "unisex",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "hoja de higuera",
+          "higo"
+        ],
+        "corazon": [
+          "coco"
+        ],
+        "fondo": [
+          "cedro",
+          "maderas"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario"
+      ],
+      "descripcion": "Hoja de higuera, leche de higo y madera: verde, cremoso y mediterráneo. Ideal para primavera y verano. Comparte estilo con Un Jardin sur le Nil.",
+      "marca": "Diptyque"
+    },
+    {
+      "nombre": "Tam Dao",
+      "anio": 2003,
+      "genero": "unisex",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "ciprés",
+          "mirto"
+        ],
+        "corazon": [
+          "sándalo"
+        ],
+        "fondo": [
+          "cedro",
+          "ámbar"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Sándalo cremoso: suave, meditativo y elegante. Ideal para otoño e invierno. Comparte estilo con Santal 33.",
+      "marca": "Diptyque"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "marca": "Lattafa",
+  "tipo": "Árabe",
+  "estilo": "Fenómeno de Emiratos: dulces intensos, ámbares y vainillas de enorme proyección.",
+  "perfumes": [
+    {
+      "nombre": "Asad",
+      "anio": "",
+      "genero": "masculino",
+      "familia": "Especiada",
+      "notas": {
+        "salida": [
+          "pimienta negra",
+          "piña",
+          "tabaco"
+        ],
+        "corazon": [
+          "café",
+          "pachulí",
+          "iris"
+        ],
+        "fondo": [
+          "vainilla",
+          "ámbar",
+          "benjuí"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Pimienta negra, tabaco y vainilla con un toque de piña: especiado, oscuro y potente. Ideal para noches frías. Comparte estilo con Sauvage Elixir y Spicebomb Extreme.",
+      "marca": "Lattafa"
+    },
+    {
+      "nombre": "Bade'e Al Oud Oud for Glory",
+      "anio": "",
+      "genero": "unisex",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "azafrán",
+          "nuez moscada",
+          "lavanda"
+        ],
+        "corazon": [
+          "oud"
+        ],
+        "fondo": [
+          "pachulí",
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche",
+        "eventos formales"
+      ],
+      "descripcion": "Oud ahumado con azafrán y lavanda: oscuro, resinoso y de gran estela. Ideal para noches de invierno. Inspirado en Oud for Greatness de Initio y cercano a Oud Wood de Tom Ford en versión más intensa.",
+      "marca": "Lattafa"
+    },
+    {
+      "nombre": "Khamrah",
+      "anio": 2022,
+      "genero": "unisex",
+      "familia": "Gourmand",
+      "notas": {
+        "salida": [
+          "canela",
+          "nuez moscada",
+          "bergamota"
+        ],
+        "corazon": [
+          "dátiles",
+          "praliné",
+          "tuberosa"
+        ],
+        "fondo": [
+          "vainilla",
+          "haba tonka",
+          "ámbar",
+          "benjuí"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Dátiles, canela y praliné sobre vainilla: un gourmand licoroso, especiado y muy envolvente. Ideal para noches de otoño e invierno. Recuerda mucho a Angels' Share de Kilian.",
+      "marca": "Lattafa"
+    },
+    {
+      "nombre": "Khamrah Qahwa",
+      "anio": 2023,
+      "genero": "unisex",
+      "familia": "Gourmand",
+      "notas": {
+        "salida": [
+          "café",
+          "canela",
+          "cardamomo",
+          "jengibre"
+        ],
+        "corazon": [
+          "praliné",
+          "flores blancas"
+        ],
+        "fondo": [
+          "vainilla",
+          "haba tonka",
+          "benjuí"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "La versión con café de Khamrah: especias, café tostado y vainilla, cálido y goloso. Ideal para invierno. Comparte estilo con A*Men y Black Phantom de Kilian.",
+      "marca": "Lattafa"
+    },
+    {
+      "nombre": "Yara",
+      "anio": 2020,
+      "genero": "femenino",
+      "familia": "Gourmand",
+      "notas": {
+        "salida": [
+          "heliotropo",
+          "orquídea",
+          "mandarina"
+        ],
+        "corazon": [
+          "frutas tropicales"
+        ],
+        "fondo": [
+          "vainilla",
+          "almizcle",
+          "sándalo"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Heliotropo, frutas tropicales y vainilla: un aroma cremoso de batido, dulce y tierno. Ideal para primavera y otoño. Comparte estilo con Burberry Her y Love, Don't Be Shy.",
+      "marca": "Lattafa"
+    }
+  ]
+}

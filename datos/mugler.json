@@ -1,0 +1,176 @@
+{
+  "marca": "Mugler",
+  "tipo": "Diseñador",
+  "estilo": "Futurismo teatral: pionero del gourmand con Angel y de las flores solares con Alien.",
+  "perfumes": [
+    {
+      "nombre": "A*Men",
+      "anio": 1996,
+      "genero": "masculino",
+      "familia": "Gourmand",
+      "notas": {
+        "salida": [
+          "lavanda",
+          "menta",
+          "bergamota"
+        ],
+        "corazon": [
+          "café",
+          "pachulí"
+        ],
+        "fondo": [
+          "vainilla",
+          "alquitrán",
+          "haba tonka",
+          "caramelo"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "Pure Havane",
+        "Pure Malt"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche"
+      ],
+      "descripcion": "Café tostado, pachulí y caramelo con lavanda: dulce, oscuro y muy potente. Pensado para noches frías. Comparte ADN con Angel y con 212 VIP Black.",
+      "marca": "Mugler"
+    },
+    {
+      "nombre": "Alien",
+      "anio": 2005,
+      "genero": "femenino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "jazmín sambac"
+        ],
+        "corazon": [
+          "madera de cachemira"
+        ],
+        "fondo": [
+          "ámbar blanco"
+        ]
+      },
+      "concentraciones": [
+        "EDP",
+        "Extraordinaire"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche",
+        "eventos formales"
+      ],
+      "descripcion": "Jazmín solar y ámbar blanco: luminoso, místico y de estela muy potente. Ideal para noches y eventos en invierno. Comparte estilo con Good Girl Gone Bad de Kilian y Scandal.",
+      "marca": "Mugler"
+    },
+    {
+      "nombre": "Angel",
+      "anio": 1992,
+      "genero": "femenino",
+      "familia": "Gourmand",
+      "notas": {
+        "salida": [
+          "bergamota",
+          "algodón de azúcar",
+          "melón",
+          "coco"
+        ],
+        "corazon": [
+          "miel",
+          "frutos rojos",
+          "ciruela"
+        ],
+        "fondo": [
+          "pachulí",
+          "vainilla",
+          "caramelo",
+          "chocolate"
+        ]
+      },
+      "concentraciones": [
+        "EDP",
+        "EDT",
+        "Elixir"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche",
+        "citas"
+      ],
+      "descripcion": "Pachulí terroso con caramelo, chocolate y algodón de azúcar: el primer gourmand moderno, intenso y polarizante. Ideal para noches de invierno. Inspiró a La Vie est Belle y comparte estilo con A*Men.",
+      "marca": "Mugler"
+    },
+    {
+      "nombre": "Angel Muse",
+      "anio": 2016,
+      "genero": "femenino",
+      "familia": "Gourmand",
+      "notas": {
+        "salida": [
+          "pomelo",
+          "pimienta rosa"
+        ],
+        "corazon": [
+          "crema de avellana"
+        ],
+        "fondo": [
+          "vetiver",
+          "pachulí"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Crema de avellana con pomelo y vetiver: un gourmand menos empalagoso y más moderno que Angel. Ideal para otoño e invierno. Comparte estilo con La Vie est Belle y Black Opium.",
+      "marca": "Mugler"
+    },
+    {
+      "nombre": "Mugler Cologne",
+      "anio": 2001,
+      "genero": "unisex",
+      "familia": "Cítrica",
+      "notas": {
+        "salida": [
+          "bergamota",
+          "neroli",
+          "petitgrain"
+        ],
+        "corazon": [],
+        "fondo": [
+          "almizcle blanco"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario"
+      ],
+      "descripcion": "Bergamota, neroli y almizcle blanco: limpio como jabón de lujo y muy refrescante. Ideal para el verano y después de la ducha. Comparte estilo con Aqua Universalis de Maison Francis Kurkdjian y Bergamote 22 de Le Labo.",
+      "marca": "Mugler"
+    }
+  ]
+}

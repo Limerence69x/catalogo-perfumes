@@ -1,0 +1,174 @@
+{
+  "marca": "Hermès",
+  "tipo": "Diseñador",
+  "estilo": "Lujo discreto y artesanal: perfumes luminosos, minerales y muy refinados.",
+  "perfumes": [
+    {
+      "nombre": "Eau d'Orange Verte",
+      "anio": 1979,
+      "genero": "unisex",
+      "familia": "Cítrica",
+      "notas": {
+        "salida": [
+          "naranja",
+          "limón",
+          "mandarina",
+          "menta"
+        ],
+        "corazon": [],
+        "fondo": [
+          "musgo de roble"
+        ]
+      },
+      "concentraciones": [
+        "EDC"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario"
+      ],
+      "descripcion": "Una colonia de naranja y menta muy chispeante con un fondo de musgo: pura energía de verano. Ideal para después de la ducha y los días de calor. Hermana de Eau Sauvage y Neroli Portofino.",
+      "marca": "Hermès"
+    },
+    {
+      "nombre": "H24",
+      "anio": 2021,
+      "genero": "masculino",
+      "familia": "Aromática",
+      "notas": {
+        "salida": [
+          "salvia"
+        ],
+        "corazon": [
+          "narciso"
+        ],
+        "fondo": [
+          "palo de rosa",
+          "notas metálicas"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Salvia verde y una sensación metálica, de vapor y planchado: moderno, limpio y muy original. Ideal para el día y la oficina en primavera y otoño. Comparte estilo con Luna Rossa Carbon de Prada.",
+      "marca": "Hermès"
+    },
+    {
+      "nombre": "Terre d'Hermès",
+      "anio": 2006,
+      "genero": "masculino",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "naranja",
+          "pomelo"
+        ],
+        "corazon": [
+          "pimienta",
+          "geranio",
+          "notas minerales"
+        ],
+        "fondo": [
+          "vetiver",
+          "cedro",
+          "pachulí",
+          "benjuí"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "Parfum",
+        "Eau Givrée"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina",
+        "eventos formales"
+      ],
+      "descripcion": "Naranja amarga y pomelo sobre vetiver y una sensación mineral de piedra y tierra: sobrio y muy elegante. Funciona todo el año, especialmente en la oficina. Comparte estilo con Vétiver de Guerlain y Burberry Hero.",
+      "marca": "Hermès"
+    },
+    {
+      "nombre": "Twilly d'Hermès",
+      "anio": 2017,
+      "genero": "femenino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "jengibre"
+        ],
+        "corazon": [
+          "tuberosa"
+        ],
+        "fondo": [
+          "sándalo"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Jengibre picante con tuberosa y sándalo: alegre, travieso y diferente. Ideal para primavera y otoño. Comparte flores blancas con Gucci Bloom y es una alternativa más juvenil y picante a Do Son de Diptyque.",
+      "marca": "Hermès"
+    },
+    {
+      "nombre": "Un Jardin sur le Nil",
+      "anio": 2005,
+      "genero": "unisex",
+      "familia": "Cítrica",
+      "notas": {
+        "salida": [
+          "mango verde",
+          "pomelo"
+        ],
+        "corazon": [
+          "loto",
+          "junco"
+        ],
+        "fondo": [
+          "incienso",
+          "iris",
+          "maderas"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario"
+      ],
+      "descripcion": "Mango verde y pomelo con flor de loto: un aroma acuoso, vegetal y luminoso de jardín junto al río. Ideal para primavera y verano. Comparte frescura con Philosykos de Diptyque y Eau Parfumée au Thé Vert.",
+      "marca": "Hermès"
+    }
+  ]
+}

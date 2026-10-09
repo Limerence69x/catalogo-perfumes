@@ -1,0 +1,175 @@
+{
+  "marca": "Issey Miyake",
+  "tipo": "Diseñador",
+  "estilo": "Pureza japonesa: la frescura del agua y la sencillez llevadas al perfume.",
+  "perfumes": [
+    {
+      "nombre": "L'Eau d'Issey",
+      "anio": 1992,
+      "genero": "femenino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "loto",
+          "melón",
+          "fresia",
+          "ciclamen"
+        ],
+        "corazon": [
+          "rosa",
+          "lirio",
+          "peonía"
+        ],
+        "fondo": [
+          "almizcle",
+          "osmanthus",
+          "cedro"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Flores acuáticas con melón y almizcle: transparente, limpio y sereno, como agua sobre pétalos. Ideal para el calor y la oficina. Comparte frescura con Omnia Crystalline y Bright Crystal.",
+      "marca": "Issey Miyake"
+    },
+    {
+      "nombre": "L'Eau d'Issey pour Homme",
+      "anio": 1994,
+      "genero": "masculino",
+      "familia": "Acuática",
+      "notas": {
+        "salida": [
+          "yuzu",
+          "limón",
+          "mandarina",
+          "bergamota"
+        ],
+        "corazon": [
+          "nenúfar",
+          "nuez moscada",
+          "canela"
+        ],
+        "fondo": [
+          "vetiver",
+          "sándalo",
+          "almizcle",
+          "tabaco",
+          "cedro",
+          "ámbar"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Yuzu ácido y notas de agua con un fondo especiado y amaderado: un acuático clásico con carácter. Ideal para verano y el día a día. Comparte estilo con Acqua di Giò y Chrome.",
+      "marca": "Issey Miyake"
+    },
+    {
+      "nombre": "L'Eau Majeure d'Issey",
+      "anio": 2018,
+      "genero": "masculino",
+      "familia": "Acuática",
+      "notas": {
+        "salida": [
+          "notas marinas"
+        ],
+        "corazon": [],
+        "fondo": [
+          "vetiver",
+          "maderas"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "verano"
+      ],
+      "ocasiones": [
+        "diario"
+      ],
+      "descripcion": "Un acuático salino y mineral con vetiver: como una ola rompiendo en las rocas. Pensado para el verano y la playa. Comparte estilo con Aqva pour Homme de Bvlgari.",
+      "marca": "Issey Miyake"
+    },
+    {
+      "nombre": "Le Sel d'Issey",
+      "anio": 2022,
+      "genero": "masculino",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "notas saladas"
+        ],
+        "corazon": [],
+        "fondo": [
+          "vetiver",
+          "maderas"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario"
+      ],
+      "descripcion": "Sal marina y maderas secas: limpio, piel tostada por el sol y sencillo. Ideal para primavera y verano. Comparte estilo con Beach Walk de Maison Margiela y Millésime Impérial de Creed.",
+      "marca": "Issey Miyake"
+    },
+    {
+      "nombre": "Nuit d'Issey",
+      "anio": 2014,
+      "genero": "masculino",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "pomelo",
+          "bergamota"
+        ],
+        "corazon": [
+          "cuero",
+          "pimienta negra"
+        ],
+        "fondo": [
+          "vetiver",
+          "pachulí",
+          "haba tonka"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "Parfum"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Pomelo con cuero y pimienta sobre vetiver: oscuro, seco y elegante. Ideal para noches de otoño e invierno. Comparte estilo con Fahrenheit y Dior Homme Intense.",
+      "marca": "Issey Miyake"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "marca": "Montblanc",
+  "tipo": "Diseñador",
+  "estilo": "Masculinos versátiles, frescos y elegantes, muy fáciles de llevar a diario.",
+  "perfumes": [
+    {
+      "nombre": "Explorer",
+      "anio": 2019,
+      "genero": "masculino",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "bergamota",
+          "pimienta rosa",
+          "salvia"
+        ],
+        "corazon": [
+          "vetiver"
+        ],
+        "fondo": [
+          "pachulí",
+          "ambroxán",
+          "cacao"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Bergamota, vetiver y pachulí con ambroxán: fresco, amaderado y aventurero. Ideal para el día a día en primavera, verano y otoño. Comparte estilo con Aventus de Creed y Club de Nuit Intense Man.",
+      "marca": "Montblanc"
+    },
+    {
+      "nombre": "Legend",
+      "anio": 2011,
+      "genero": "masculino",
+      "familia": "Fougère",
+      "notas": {
+        "salida": [
+          "lavanda",
+          "piña",
+          "bergamota",
+          "verbena"
+        ],
+        "corazon": [
+          "manzana roja",
+          "geranio",
+          "rosa"
+        ],
+        "fondo": [
+          "haba tonka",
+          "sándalo",
+          "musgo de roble"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Lavanda, piña y haba tonka: un fougère limpio, frutal y muy agradable. Ideal para la oficina y el día a día en casi cualquier época. Comparte estilo con Azzaro Pour Homme y, por la piña, con Aventus en versión suave.",
+      "marca": "Montblanc"
+    },
+    {
+      "nombre": "Legend Night",
+      "anio": 2017,
+      "genero": "masculino",
+      "familia": "Aromática",
+      "notas": {
+        "salida": [
+          "bergamota",
+          "menta"
+        ],
+        "corazon": [
+          "lavanda",
+          "salvia"
+        ],
+        "fondo": [
+          "vainilla",
+          "cedro"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Menta y lavanda sobre vainilla y maderas: aromático, algo dulce y cómodo. Ideal para tardes y noches de otoño. Comparte estilo con Le Male y Legend en versión más cálida.",
+      "marca": "Montblanc"
+    },
+    {
+      "nombre": "Legend Spirit",
+      "anio": 2016,
+      "genero": "masculino",
+      "familia": "Aromática",
+      "notas": {
+        "salida": [
+          "pomelo",
+          "bergamota",
+          "pimienta rosa"
+        ],
+        "corazon": [
+          "lavanda",
+          "cardamomo"
+        ],
+        "fondo": [
+          "maderas",
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Pomelo, lavanda y almizcle limpio: fresco, ligero y de sensación de ropa limpia. Ideal para primavera, verano y la oficina. Comparte estilo con Allure Homme Sport y Light Blue pour Homme.",
+      "marca": "Montblanc"
+    },
+    {
+      "nombre": "Signature",
+      "anio": 2020,
+      "genero": "femenino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [],
+        "corazon": [
+          "magnolia",
+          "osmanthus",
+          "peonía"
+        ],
+        "fondo": [
+          "vainilla",
+          "almizcle blanco"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Magnolia y osmanthus suaves con vainilla y almizcle: tierno, limpio y elegante. Ideal para el día y la oficina en primavera y otoño. Comparte estilo con Idôle e Irresistible.",
+      "marca": "Montblanc"
+    }
+  ]
+}

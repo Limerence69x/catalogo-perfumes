@@ -1,0 +1,132 @@
+{
+  "marca": "Al Haramain",
+  "tipo": "Árabe",
+  "estilo": "Tradición árabe desde 1970 con creaciones modernas de gran rendimiento, como la saga Amber Oud.",
+  "perfumes": [
+    {
+      "nombre": "Amber Oud Gold Edition",
+      "anio": "",
+      "genero": "unisex",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "bergamota",
+          "notas verdes"
+        ],
+        "corazon": [
+          "melón",
+          "piña"
+        ],
+        "fondo": [
+          "ámbar",
+          "vainilla",
+          "almizcle",
+          "maderas"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Fruta jugosa sobre ámbar y vainilla: dulce, luminoso y de estela enorme. Funciona todo el año. Comparte estilo con Erba Pura de Xerjoff y Philos Pura de Maison Alhambra.",
+      "marca": "Al Haramain"
+    },
+    {
+      "nombre": "Amber Oud Ruby Edition",
+      "anio": "",
+      "genero": "unisex",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "azafrán"
+        ],
+        "corazon": [
+          "madera ambarada"
+        ],
+        "fondo": [
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Azafrán y madera ambarada: aireado y dulce. Funciona todo el año. Inspirado en Baccarat Rouge 540.",
+      "marca": "Al Haramain"
+    },
+    {
+      "nombre": "Amber Oud Tobacco Edition",
+      "anio": "",
+      "genero": "unisex",
+      "familia": "Especiada",
+      "notas": {
+        "salida": [],
+        "corazon": [
+          "tabaco"
+        ],
+        "fondo": []
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche"
+      ],
+      "descripcion": "Tabaco especiado y cálido: oscuro y envolvente. Ideal para noches de invierno. Comparte estilo con Tobacco Vanille.",
+      "marca": "Al Haramain"
+    },
+    {
+      "nombre": "L'Aventure",
+      "anio": "",
+      "genero": "masculino",
+      "familia": "Chipre",
+      "notas": {
+        "salida": [
+          "limón",
+          "bergamota"
+        ],
+        "corazon": [],
+        "fondo": [
+          "almizcle",
+          "pachulí"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Cítricos ahumados con almizcle: fresco y versátil. Ideal para primavera y verano. Comparte estilo con Aventus y Club de Nuit Intense Man.",
+      "marca": "Al Haramain"
+    }
+  ]
+}

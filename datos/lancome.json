@@ -1,0 +1,189 @@
+{
+  "marca": "Lancôme",
+  "tipo": "Diseñador",
+  "estilo": "Feminidad francesa luminosa: gourmands sonrientes y florales románticos.",
+  "perfumes": [
+    {
+      "nombre": "Idôle",
+      "anio": 2019,
+      "genero": "femenino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "pera",
+          "bergamota",
+          "pimienta rosa"
+        ],
+        "corazon": [
+          "rosa",
+          "jazmín"
+        ],
+        "fondo": [
+          "almizcle blanco",
+          "pachulí",
+          "vainilla"
+        ]
+      },
+      "concentraciones": [
+        "EDP",
+        "Intense"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Rosa limpia y luminosa con almizcle: moderno, ligero y muy fácil de llevar. Ideal para el día y la oficina en primavera. Comparte estilo con Irresistible de Givenchy y Miss Dior Blooming Bouquet.",
+      "marca": "Lancôme"
+    },
+    {
+      "nombre": "La Nuit Trésor",
+      "anio": 2015,
+      "genero": "femenino",
+      "familia": "Gourmand",
+      "notas": {
+        "salida": [
+          "pera",
+          "bergamota"
+        ],
+        "corazon": [
+          "rosa",
+          "orquídea"
+        ],
+        "fondo": [
+          "praliné",
+          "vainilla",
+          "pachulí",
+          "incienso"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Rosa oscura y praliné con un toque de incienso: romántico, dulce y nocturno. Ideal para citas y noches frías. Comparte estilo con Black Opium e Hypnotic Poison.",
+      "marca": "Lancôme"
+    },
+    {
+      "nombre": "La Vie est Belle",
+      "anio": 2012,
+      "genero": "femenino",
+      "familia": "Gourmand",
+      "notas": {
+        "salida": [
+          "grosella negra",
+          "pera"
+        ],
+        "corazon": [
+          "iris",
+          "jazmín",
+          "azahar"
+        ],
+        "fondo": [
+          "praliné",
+          "vainilla",
+          "pachulí",
+          "haba tonka"
+        ]
+      },
+      "concentraciones": [
+        "EDP",
+        "Intense"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Praliné, vainilla e iris: un gourmand alegre, dulce y muy reconocible. Ideal para otoño e invierno en casi cualquier ocasión. Comparte estilo con Sì de Giorgio Armani y Khamrah de Lattafa.",
+      "marca": "Lancôme"
+    },
+    {
+      "nombre": "Miracle",
+      "anio": 2000,
+      "genero": "femenino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "lichi",
+          "fresia"
+        ],
+        "corazon": [
+          "magnolia",
+          "jengibre",
+          "pimienta"
+        ],
+        "fondo": [
+          "almizcle",
+          "ámbar"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Lichi y magnolia con un toque de jengibre y pimienta: luminoso, especiado y alegre. Ideal para primavera y otoño de día. Comparte estilo con Twilly d'Hermès y Chance Eau Tendre.",
+      "marca": "Lancôme"
+    },
+    {
+      "nombre": "Trésor",
+      "anio": 1990,
+      "genero": "femenino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "durazno",
+          "albaricoque",
+          "bergamota"
+        ],
+        "corazon": [
+          "rosa",
+          "iris",
+          "lila",
+          "heliotropo"
+        ],
+        "fondo": [
+          "vainilla",
+          "almizcle",
+          "ámbar",
+          "sándalo"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "oficina",
+        "eventos formales"
+      ],
+      "descripcion": "Rosa, durazno y vainilla polvosa: un floral cálido, maternal y elegante. Ideal para eventos formales y la oficina en los meses fríos. Comparte estilo con The One de Dolce & Gabbana y Eternity.",
+      "marca": "Lancôme"
+    }
+  ]
+}

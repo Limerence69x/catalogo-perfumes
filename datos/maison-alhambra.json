@@ -1,0 +1,174 @@
+{
+  "marca": "Maison Alhambra",
+  "tipo": "Árabe",
+  "estilo": "Interpretaciones de grandes perfumes de nicho y diseñador, con buena relación calidad y estela.",
+  "perfumes": [
+    {
+      "nombre": "Baroque Rouge 540",
+      "anio": "",
+      "genero": "unisex",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "azafrán",
+          "jazmín"
+        ],
+        "corazon": [
+          "madera ambarada",
+          "ámbar gris"
+        ],
+        "fondo": [
+          "resina de abeto",
+          "cedro"
+        ]
+      },
+      "concentraciones": [
+        "Extrait"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Azafrán y madera ambarada con un efecto de algodón de azúcar: aireado y luminoso. Funciona todo el año. Inspirado en Baccarat Rouge 540.",
+      "marca": "Maison Alhambra"
+    },
+    {
+      "nombre": "Kismet Angel",
+      "anio": "",
+      "genero": "unisex",
+      "familia": "Gourmand",
+      "notas": {
+        "salida": [
+          "coñac"
+        ],
+        "corazon": [
+          "canela"
+        ],
+        "fondo": [
+          "praliné",
+          "vainilla"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Coñac, canela y praliné: licoroso y dulce. Ideal para noches de invierno. Inspirado en Angels' Share de Kilian.",
+      "marca": "Maison Alhambra"
+    },
+    {
+      "nombre": "Philos Pura",
+      "anio": "",
+      "genero": "unisex",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "naranja",
+          "limón",
+          "bergamota"
+        ],
+        "corazon": [
+          "frutas"
+        ],
+        "fondo": [
+          "almizcle blanco",
+          "vainilla",
+          "ámbar"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Cítricos, fruta y almizcle con vainilla: dulce, jugoso y alegre. Ideal para primavera y verano. Inspirado en Erba Pura de Xerjoff.",
+      "marca": "Maison Alhambra"
+    },
+    {
+      "nombre": "Salvo",
+      "anio": "",
+      "genero": "masculino",
+      "familia": "Aromática",
+      "notas": {
+        "salida": [
+          "bergamota",
+          "pimienta"
+        ],
+        "corazon": [
+          "lavanda"
+        ],
+        "fondo": [
+          "ambroxán"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Bergamota, pimienta y ambroxán: fresco, mineral y potente. Funciona todo el año. Inspirado en Sauvage de Dior.",
+      "marca": "Maison Alhambra"
+    },
+    {
+      "nombre": "Tobacco Touch",
+      "anio": "",
+      "genero": "unisex",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "tabaco",
+          "especias"
+        ],
+        "corazon": [
+          "vainilla",
+          "cacao",
+          "haba tonka"
+        ],
+        "fondo": [
+          "frutos secos",
+          "maderas"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche"
+      ],
+      "descripcion": "Tabaco dulce, vainilla y especias: denso y cálido. Ideal para noches frías. Inspirado en Tobacco Vanille de Tom Ford.",
+      "marca": "Maison Alhambra"
+    }
+  ]
+}

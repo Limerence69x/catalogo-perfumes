@@ -1,0 +1,204 @@
+{
+  "marca": "Le Labo",
+  "tipo": "Nicho",
+  "estilo": "Laboratorio artesanal neoyorquino: perfumes minimalistas preparados al momento.",
+  "perfumes": [
+    {
+      "nombre": "Another 13",
+      "anio": 2010,
+      "genero": "unisex",
+      "familia": "Almizclada",
+      "notas": {
+        "salida": [],
+        "corazon": [
+          "ambroxán"
+        ],
+        "fondo": [
+          "almizcle",
+          "musgo"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Almizcle y ambroxán: un aroma de piel limpia, minimalista y muy adictivo. Funciona todo el año. Comparte estilo con Baccarat Rouge 540 y Fleur de Peau.",
+      "marca": "Le Labo"
+    },
+    {
+      "nombre": "Bergamote 22",
+      "anio": 2006,
+      "genero": "unisex",
+      "familia": "Cítrica",
+      "notas": {
+        "salida": [
+          "bergamota",
+          "pomelo",
+          "petitgrain"
+        ],
+        "corazon": [
+          "azahar"
+        ],
+        "fondo": [
+          "vetiver",
+          "cedro",
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Bergamota y pomelo con almizcle: cítrico, limpio y de larga duración para su estilo. Ideal para verano. Comparte estilo con Aqua Universalis y Mugler Cologne.",
+      "marca": "Le Labo"
+    },
+    {
+      "nombre": "Patchouli 24",
+      "anio": 2006,
+      "genero": "unisex",
+      "familia": "Cuero",
+      "notas": {
+        "salida": [],
+        "corazon": [
+          "pachulí"
+        ],
+        "fondo": [
+          "abedul",
+          "vainilla"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche"
+      ],
+      "descripcion": "Humo de abedul, cuero y vainilla: oscuro, ahumado y muy diferente. Ideal para noches de invierno. Comparte estilo con Tuscan Leather.",
+      "marca": "Le Labo"
+    },
+    {
+      "nombre": "Rose 31",
+      "anio": 2006,
+      "genero": "unisex",
+      "familia": "Especiada",
+      "notas": {
+        "salida": [
+          "rosa",
+          "comino"
+        ],
+        "corazon": [
+          "cedro"
+        ],
+        "fondo": [
+          "vetiver",
+          "oud"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Rosa especiada con comino y maderas: una rosa masculina, seca y elegante. Ideal para otoño e invierno. Comparte estilo con Oud Ispahan de Dior.",
+      "marca": "Le Labo"
+    },
+    {
+      "nombre": "Santal 33",
+      "anio": 2011,
+      "genero": "unisex",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "cardamomo",
+          "iris",
+          "violeta"
+        ],
+        "corazon": [
+          "ambroxán",
+          "papiro"
+        ],
+        "fondo": [
+          "cuero",
+          "sándalo",
+          "cedro"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Sándalo cremoso, cuero suave y cardamomo: un amaderado limpio que se volvió icono urbano. Funciona todo el año. Comparte estilo con Tam Dao de Diptyque y Another 13.",
+      "marca": "Le Labo"
+    },
+    {
+      "nombre": "Thé Noir 29",
+      "anio": 2015,
+      "genero": "unisex",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "higo",
+          "bergamota",
+          "laurel"
+        ],
+        "corazon": [
+          "té negro",
+          "tabaco"
+        ],
+        "fondo": [
+          "cedro",
+          "vetiver",
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Té negro ahumado con higo y tabaco: oscuro, seco y sofisticado. Ideal para otoño e invierno. Comparte estilo con Philosykos y Tobacco Vanille.",
+      "marca": "Le Labo"
+    }
+  ]
+}

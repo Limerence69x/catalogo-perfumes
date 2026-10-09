@@ -1,0 +1,224 @@
+{
+  "marca": "Jean Paul Gaultier",
+  "tipo": "Diseñador",
+  "estilo": "Irreverencia y seducción: marineros, lavanda y vainilla en frascos con forma de torso.",
+  "perfumes": [
+    {
+      "nombre": "Classique",
+      "anio": 1993,
+      "genero": "femenino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "mandarina",
+          "rosa",
+          "anís"
+        ],
+        "corazon": [
+          "azahar",
+          "iris",
+          "jengibre"
+        ],
+        "fondo": [
+          "vainilla",
+          "ámbar"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Azahar, rosa y vainilla polvosa: huele a tocador antiguo, a corsé y a seducción retro. Ideal para la noche en los meses fríos. Pareja femenina de Le Male y pariente de Shalimar.",
+      "marca": "Jean Paul Gaultier"
+    },
+    {
+      "nombre": "Le Beau",
+      "anio": 2019,
+      "genero": "masculino",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "bergamota"
+        ],
+        "corazon": [
+          "coco"
+        ],
+        "fondo": [
+          "haba tonka",
+          "maderas"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "Le Parfum"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Coco cremoso, bergamota y haba tonka: huele a verano, a playa tropical y a piel bronceada. Ideal para primavera y verano. Comparte estilo con Beach Walk de Maison Margiela y Allure Homme Sport.",
+      "marca": "Jean Paul Gaultier"
+    },
+    {
+      "nombre": "Le Male",
+      "anio": 1995,
+      "genero": "masculino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "lavanda",
+          "menta",
+          "cardamomo",
+          "bergamota",
+          "artemisa"
+        ],
+        "corazon": [
+          "azahar",
+          "canela",
+          "comino"
+        ],
+        "fondo": [
+          "vainilla",
+          "haba tonka",
+          "sándalo",
+          "ámbar",
+          "cedro"
+        ]
+      },
+      "concentraciones": [
+        "EDT",
+        "Le Parfum",
+        "Elixir"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Lavanda y menta frescas sobre vainilla y haba tonka: huele a talco, a barbería y a seducción. Funciona en otoño e invierno, de día y de noche. Comparte ADN con Ultra Male, Pi de Givenchy y Armani Code.",
+      "marca": "Jean Paul Gaultier"
+    },
+    {
+      "nombre": "Le Male Le Parfum",
+      "anio": 2020,
+      "genero": "masculino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "cardamomo"
+        ],
+        "corazon": [
+          "lavanda",
+          "iris"
+        ],
+        "fondo": [
+          "vainilla",
+          "maderas"
+        ]
+      },
+      "concentraciones": [
+        "EDP Intense"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche",
+        "eventos formales"
+      ],
+      "descripcion": "Cardamomo, iris y vainilla: una versión más elegante, empolvada y adulta de Le Male. Ideal para noches, cenas y eventos en invierno. Comparte estilo con The Most Wanted y Dior Homme Intense.",
+      "marca": "Jean Paul Gaultier"
+    },
+    {
+      "nombre": "Scandal",
+      "anio": 2017,
+      "genero": "femenino",
+      "familia": "Gourmand",
+      "notas": {
+        "salida": [
+          "naranja sanguina",
+          "mandarina"
+        ],
+        "corazon": [
+          "miel",
+          "gardenia",
+          "jazmín",
+          "azahar"
+        ],
+        "fondo": [
+          "cera de abejas",
+          "pachulí"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Miel dorada y flores blancas sobre cera de abejas: dulce, seductor y nada tímido. Ideal para noches de otoño e invierno. Comparte estilo con Lady Million y Naxos de Xerjoff en su faceta melosa.",
+      "marca": "Jean Paul Gaultier"
+    },
+    {
+      "nombre": "Ultra Male",
+      "anio": 2015,
+      "genero": "masculino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "pera",
+          "lavanda",
+          "menta",
+          "bergamota",
+          "limón"
+        ],
+        "corazon": [
+          "canela",
+          "salvia",
+          "alcaravea"
+        ],
+        "fondo": [
+          "vainilla negra",
+          "ámbar",
+          "pachulí",
+          "cedro"
+        ]
+      },
+      "concentraciones": [
+        "EDT"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche"
+      ],
+      "descripcion": "Pera dulce y vainilla muy intensas con lavanda: la versión más golosa y fiestera de Le Male. Ideal para salir de noche en otoño e invierno. Comparte estilo con 1 Million y Eros Flame.",
+      "marca": "Jean Paul Gaultier"
+    }
+  ]
+}

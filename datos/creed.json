@@ -1,0 +1,218 @@
+{
+  "marca": "Creed",
+  "tipo": "Nicho",
+  "estilo": "Lujo de herencia: frescuras aristocráticas y el legendario Aventus.",
+  "perfumes": [
+    {
+      "nombre": "Aventus",
+      "anio": 2010,
+      "genero": "masculino",
+      "familia": "Chipre",
+      "notas": {
+        "salida": [
+          "piña",
+          "grosella negra",
+          "manzana",
+          "bergamota"
+        ],
+        "corazon": [
+          "abedul",
+          "pachulí",
+          "jazmín"
+        ],
+        "fondo": [
+          "almizcle",
+          "musgo de roble",
+          "ámbar gris",
+          "vainilla"
+        ]
+      },
+      "concentraciones": [
+        "EDP",
+        "Absolu"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina",
+        "citas",
+        "eventos formales"
+      ],
+      "descripcion": "Piña jugosa y abedul ahumado sobre musgo y almizcle: afrutado, fresco y con un aire de éxito. Funciona casi todo el año y en cualquier ocasión, de la oficina a una boda. Ha inspirado a Club de Nuit Intense Man de Armaf, Explorer de Montblanc y Supremacy Silver de Afnan.",
+      "marca": "Creed"
+    },
+    {
+      "nombre": "Green Irish Tweed",
+      "anio": 1985,
+      "genero": "masculino",
+      "familia": "Fougère",
+      "notas": {
+        "salida": [
+          "verbena de limón",
+          "iris"
+        ],
+        "corazon": [
+          "hoja de violeta"
+        ],
+        "fondo": [
+          "sándalo",
+          "ámbar gris"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina",
+        "eventos formales"
+      ],
+      "descripcion": "Hoja de violeta, limón y sándalo: verde, limpio y elegante, como un campo recién cortado. Ideal para primavera y verano, en la oficina o un evento de día. Comparte estilo con Cool Water y con Tres Nuit de Armaf, que se inspira en él.",
+      "marca": "Creed"
+    },
+    {
+      "nombre": "Millésime Impérial",
+      "anio": 1995,
+      "genero": "unisex",
+      "familia": "Cítrica",
+      "notas": {
+        "salida": [
+          "bergamota",
+          "limón",
+          "notas marinas"
+        ],
+        "corazon": [
+          "iris"
+        ],
+        "fondo": [
+          "almizcle",
+          "sal marina"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario"
+      ],
+      "descripcion": "Cítricos con sal marina y almizcle: limpio, luminoso y veraniego. Ideal para playa y calor. Comparte estilo con Le Sel d'Issey y Aqva pour Homme.",
+      "marca": "Creed"
+    },
+    {
+      "nombre": "Royal Oud",
+      "anio": 2011,
+      "genero": "unisex",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "limón",
+          "pimienta rosa",
+          "bergamota"
+        ],
+        "corazon": [
+          "cedro",
+          "angélica"
+        ],
+        "fondo": [
+          "oud",
+          "sándalo",
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "oficina",
+        "eventos formales"
+      ],
+      "descripcion": "Un oud limpio y elegante, con cedro y pimienta rosa: para quien busca madera sin oscuridad. Ideal para otoño, invierno y eventos. Comparte estilo con Oud Wood de Tom Ford.",
+      "marca": "Creed"
+    },
+    {
+      "nombre": "Silver Mountain Water",
+      "anio": 1995,
+      "genero": "unisex",
+      "familia": "Cítrica",
+      "notas": {
+        "salida": [
+          "bergamota",
+          "mandarina"
+        ],
+        "corazon": [
+          "té verde",
+          "grosella negra"
+        ],
+        "fondo": [
+          "almizcle",
+          "sándalo"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Té verde, grosella negra y almizcle metálico: fresco como un arroyo de montaña. Ideal para primavera y verano. Comparte estilo con Eau Parfumée au Thé Vert de Bvlgari y CK One.",
+      "marca": "Creed"
+    },
+    {
+      "nombre": "Viking",
+      "anio": 2017,
+      "genero": "masculino",
+      "familia": "Especiada",
+      "notas": {
+        "salida": [
+          "bergamota",
+          "limón",
+          "pimienta rosa"
+        ],
+        "corazon": [
+          "rosa",
+          "menta",
+          "pimienta negra"
+        ],
+        "fondo": [
+          "vetiver",
+          "pachulí",
+          "sándalo"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Pimienta y menta sobre vetiver: fresco, especiado y enérgico. Ideal para primavera y otoño. Comparte estilo con Dylan Blue y Explorer.",
+      "marca": "Creed"
+    }
+  ]
+}

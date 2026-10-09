@@ -1,0 +1,260 @@
+{
+  "marca": "Tom Ford",
+  "tipo": "Nicho",
+  "estilo": "Opulencia sensual: la línea Private Blend lleva el lujo a tabaco, oud, cuero y vainilla.",
+  "perfumes": [
+    {
+      "nombre": "Black Orchid",
+      "anio": 2006,
+      "genero": "unisex",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "trufa",
+          "ylang-ylang",
+          "grosella negra",
+          "bergamota"
+        ],
+        "corazon": [
+          "orquídea",
+          "especias"
+        ],
+        "fondo": [
+          "pachulí",
+          "vainilla",
+          "incienso",
+          "sándalo"
+        ]
+      },
+      "concentraciones": [
+        "EDP",
+        "Parfum"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche",
+        "eventos formales"
+      ],
+      "descripcion": "Orquídea oscura, trufa y pachulí: misterioso, terroso y opulento. De la línea principal de la marca, ideal para noches de invierno. Comparte estilo con Euphoria de Calvin Klein.",
+      "marca": "Tom Ford"
+    },
+    {
+      "nombre": "Lost Cherry",
+      "anio": 2018,
+      "genero": "unisex",
+      "familia": "Gourmand",
+      "notas": {
+        "salida": [
+          "cereza negra",
+          "licor de cereza",
+          "almendra amarga"
+        ],
+        "corazon": [
+          "rosa turca",
+          "jazmín sambac"
+        ],
+        "fondo": [
+          "bálsamo de Perú",
+          "haba tonka",
+          "sándalo",
+          "vetiver",
+          "cedro"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Cereza en licor con almendra: dulce, jugoso y seductor. De la línea Private Blend, ideal para citas de invierno. Comparte estilo con La Petite Robe Noire.",
+      "marca": "Tom Ford"
+    },
+    {
+      "nombre": "Neroli Portofino",
+      "anio": 2011,
+      "genero": "unisex",
+      "familia": "Cítrica",
+      "notas": {
+        "salida": [
+          "bergamota",
+          "mandarina",
+          "limón",
+          "lavanda",
+          "romero"
+        ],
+        "corazon": [
+          "neroli",
+          "azahar",
+          "jazmín"
+        ],
+        "fondo": [
+          "ámbar",
+          "angélica"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario"
+      ],
+      "descripcion": "Cítricos y neroli: una colonia de lujo que huele a Riviera italiana. De la línea Private Blend, ideal para verano. Comparte estilo con Eau Sauvage.",
+      "marca": "Tom Ford"
+    },
+    {
+      "nombre": "Ombré Leather",
+      "anio": 2018,
+      "genero": "unisex",
+      "familia": "Cuero",
+      "notas": {
+        "salida": [
+          "cardamomo"
+        ],
+        "corazon": [
+          "cuero",
+          "jazmín sambac"
+        ],
+        "fondo": [
+          "ámbar",
+          "musgo",
+          "pachulí"
+        ]
+      },
+      "concentraciones": [
+        "EDP",
+        "Parfum"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Cuero suave con cardamomo: masculino, cálido y elegante. De la línea principal de la marca, ideal para otoño e invierno. Comparte estilo con Tuscan Leather y Fahrenheit.",
+      "marca": "Tom Ford"
+    },
+    {
+      "nombre": "Oud Wood",
+      "anio": 2007,
+      "genero": "unisex",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "palo de rosa",
+          "cardamomo",
+          "pimienta de Sichuan"
+        ],
+        "corazon": [
+          "oud",
+          "sándalo",
+          "vetiver"
+        ],
+        "fondo": [
+          "haba tonka",
+          "vainilla",
+          "ámbar"
+        ]
+      },
+      "concentraciones": [
+        "EDP",
+        "Parfum"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "oficina",
+        "citas",
+        "eventos formales"
+      ],
+      "descripcion": "Un oud suave y elegante con maderas cremosas: refinado y fácil de llevar. De la línea Private Blend, ideal para otoño e invierno. Comparte estilo con Royal Oud de Creed.",
+      "marca": "Tom Ford"
+    },
+    {
+      "nombre": "Tobacco Vanille",
+      "anio": 2007,
+      "genero": "unisex",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "tabaco",
+          "especias"
+        ],
+        "corazon": [
+          "vainilla",
+          "cacao",
+          "haba tonka",
+          "flor de tabaco"
+        ],
+        "fondo": [
+          "frutos secos",
+          "maderas"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche",
+        "eventos formales"
+      ],
+      "descripcion": "Tabaco dulce, vainilla y especias: denso, cálido y lujoso, como un club de caballeros. Pertenece a la línea Private Blend y es ideal para noches de invierno. Comparte estilo con Spicebomb Extreme y Tobacco Touch de Maison Alhambra.",
+      "marca": "Tom Ford"
+    },
+    {
+      "nombre": "Tuscan Leather",
+      "anio": 2007,
+      "genero": "unisex",
+      "familia": "Cuero",
+      "notas": {
+        "salida": [
+          "frambuesa",
+          "azafrán",
+          "tomillo"
+        ],
+        "corazon": [
+          "olíbano",
+          "jazmín"
+        ],
+        "fondo": [
+          "cuero",
+          "ante",
+          "ámbar",
+          "maderas"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche"
+      ],
+      "descripcion": "Cuero crudo con frambuesa y azafrán: animal, potente y lujoso. De la línea Private Blend, ideal para noches frías. Comparte estilo con La Yuqawam de Rasasi.",
+      "marca": "Tom Ford"
+    }
+  ]
+}
