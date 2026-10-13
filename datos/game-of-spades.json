@@ -1,0 +1,288 @@
+{
+  "marca": "Game of Spades",
+  "tipo": "Nicho",
+  "estilo": "Línea de Jo Milano Paris inspirada en el póker: extractos modernos, potentes y fáciles de gustar.",
+  "perfumes": [
+    {
+      "nombre": "Game of Spades Bonus",
+      "anio": 2025,
+      "genero": "unisex",
+      "familia": "Cítrica",
+      "notas": {
+        "salida": [
+          "naranja",
+          "cidra",
+          "limón",
+          "menta",
+          "grosella negra",
+          "cilantro"
+        ],
+        "corazon": [
+          "albaricoque",
+          "albahaca",
+          "rosa de mayo",
+          "semilla de zanahoria"
+        ],
+        "fondo": [
+          "ambreta",
+          "higo",
+          "dátiles"
+        ]
+      },
+      "concentraciones": [
+        "Extrait"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario"
+      ],
+      "descripcion": "Cítricos y menta que se vuelven frutales con albaricoque, higo y dátil: fresco al inicio y suavemente dulce al final. Ideal para primavera y verano. Comparte estilo con Erba Pura de Xerjoff, más herbal.",
+      "marca": "Game of Spades"
+    },
+    {
+      "nombre": "Game of Spades Boston",
+      "anio": 2025,
+      "genero": "unisex",
+      "familia": "Chipre",
+      "notas": {
+        "salida": [
+          "piña",
+          "bergamota",
+          "enebro"
+        ],
+        "corazon": [
+          "yemas de grosella negra"
+        ],
+        "fondo": [
+          "cedro",
+          "vetiver"
+        ]
+      },
+      "concentraciones": [
+        "Extrait"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Piña, enebro y grosella sobre cedro y vetiver: afrutado, verde y seco. Ideal para primavera, verano y otoño. Comparte estilo con Aventus de Creed y Cedrat Boise de Mancera.",
+      "marca": "Game of Spades"
+    },
+    {
+      "nombre": "Game of Spades Emerald",
+      "anio": 2025,
+      "genero": "unisex",
+      "familia": "Cítrica",
+      "notas": {
+        "salida": [
+          "jengibre",
+          "pomelo",
+          "bergamota"
+        ],
+        "corazon": [
+          "azahar",
+          "neroli"
+        ],
+        "fondo": [
+          "almizcle",
+          "ambreta"
+        ]
+      },
+      "concentraciones": [
+        "Extrait"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Jengibre y pomelo con neroli sobre almizcle: limpio, chispeante y luminoso. Ideal para primavera, verano y la oficina. Comparte estilo con Neroli Portofino y Sorrento de Mykonos.",
+      "marca": "Game of Spades"
+    },
+    {
+      "nombre": "Game of Spades Full House",
+      "anio": 2024,
+      "genero": "unisex",
+      "familia": "Cítrica",
+      "notas": {
+        "salida": [
+          "cidra",
+          "bergamota de Calabria",
+          "naranja de Sicilia"
+        ],
+        "corazon": [
+          "jengibre",
+          "neroli",
+          "canela"
+        ],
+        "fondo": [
+          "té negro",
+          "ambroxán",
+          "guayaco",
+          "olíbano"
+        ]
+      },
+      "concentraciones": [
+        "Extrait"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina",
+        "citas"
+      ],
+      "descripcion": "Cítricos brillantes, jengibre y té negro sobre ambroxán: fresco, especiado y elegante. Ideal para primavera, verano y la oficina. Comparte estilo con Inception de Mykonos y con Imagination de Louis Vuitton, en el que se inspira.",
+      "marca": "Game of Spades"
+    },
+    {
+      "nombre": "Game of Spades King",
+      "anio": 2021,
+      "genero": "unisex",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [],
+        "corazon": [],
+        "fondo": []
+      },
+      "concentraciones": [
+        "Extrait"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Uno de los primeros de la línea, de perfil cálido y dulce pensado para la noche. Ideal para otoño e invierno. Las fuentes no coinciden en sus notas, por eso se dejan en blanco.",
+      "marca": "Game of Spades"
+    },
+    {
+      "nombre": "Game of Spades Rouge",
+      "anio": 2021,
+      "genero": "unisex",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "jazmín",
+          "bergamota",
+          "lavanda"
+        ],
+        "corazon": [
+          "madera ambarada",
+          "ámbar gris"
+        ],
+        "fondo": [
+          "maderas",
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "Extrait"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Jazmín y madera ambarada con ámbar gris: aireado, dulce y muy llamativo. Funciona todo el año, en citas y salidas. Comparte estilo con Baccarat Rouge 540 e Instant Crush de Mancera.",
+      "marca": "Game of Spades"
+    },
+    {
+      "nombre": "Game of Spades Wildcard",
+      "anio": 2022,
+      "genero": "unisex",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "flores",
+          "bergamota",
+          "cilantro"
+        ],
+        "corazon": [
+          "manzana",
+          "ambroxán",
+          "vainilla"
+        ],
+        "fondo": [
+          "maderas",
+          "haba tonka",
+          "ámbar gris"
+        ]
+      },
+      "concentraciones": [
+        "Parfum"
+      ],
+      "temporadas": [
+        "primavera",
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Manzana, ambroxán y vainilla con un inicio fresco: moderno, dulce y muy versátil. Ideal para primavera, otoño e invierno. Comparte estilo con Y de Yves Saint Laurent en versión más dulce y con Layton.",
+      "marca": "Game of Spades"
+    },
+    {
+      "nombre": "Game of Spades Win",
+      "anio": 2025,
+      "genero": "femenino",
+      "familia": "Floral afrutada",
+      "notas": {
+        "salida": [
+          "lichi",
+          "mandarina",
+          "grosella negra"
+        ],
+        "corazon": [
+          "nenúfar",
+          "peonía",
+          "jazmín"
+        ],
+        "fondo": [
+          "ambroxán",
+          "almizcle",
+          "praliné",
+          "musgo de roble",
+          "vainilla"
+        ]
+      },
+      "concentraciones": [
+        "Extrait"
+      ],
+      "temporadas": [
+        "primavera",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Lichi y peonía sobre praliné y vainilla: afrutado, floral y dulce. Ideal para primavera, otoño y citas. Comparte estilo con Burberry Her y Delina de Parfums de Marly.",
+      "marca": "Game of Spades"
+    }
+  ]
+}

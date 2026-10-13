@@ -5,7 +5,8 @@ Catálogo web de perfumes (sin precios), en español, publicado con GitHub Pages
 
 ## Qué incluye
 
-- 41 marcas (diseñador, nicho y árabes) y más de 220 perfumes.
+- 45 marcas (diseñador, nicho y árabes) y más de 260 perfumes.
+- Ilustración del frasco en cada perfume (color según su familia olfativa) y botón «Ver fotos» que abre fotos reales en Google Imágenes.
 - Buscador por nombre o marca.
 - Filtros por género, familia olfativa, nota, temporada y ocasión.
 - «Si te gusta X, prueba Y» en cada perfume (se calcula comparando familia, notas, género, temporadas y los parecidos que menciona la descripción).
@@ -51,6 +52,7 @@ Cada archivo de marca tiene esta forma:
 - `genero`: `masculino`, `femenino` o `unisex`.
 - `temporadas`: `primavera`, `verano`, `otoño`, `invierno`.
 - `ocasiones`: `diario`, `oficina`, `citas`, `noche`, `eventos formales`.
+- `imagen` (opcional): dirección web de una foto del frasco. Si existe, se muestra en lugar de la ilustración.
 - Si un dato no es seguro se deja vacío (`""` o `[]`) en lugar de inventarlo.
 
 ## Agregar una marca

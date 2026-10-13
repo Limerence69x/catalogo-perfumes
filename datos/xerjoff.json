@@ -1,0 +1,278 @@
+{
+  "marca": "Xerjoff",
+  "tipo": "Nicho",
+  "estilo": "Lujo italiano artesanal: extractos densos, frutales y ambarados de gran calidad.",
+  "perfumes": [
+    {
+      "nombre": "40 Knots",
+      "anio": "",
+      "genero": "masculino",
+      "familia": "Acuática",
+      "notas": {
+        "salida": [
+          "notas marinas"
+        ],
+        "corazon": [],
+        "fondo": [
+          "maderas"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "verano"
+      ],
+      "ocasiones": [
+        "diario"
+      ],
+      "descripcion": "Un acuático salino, de cubierta de velero y viento del mar. Pensado para el verano y los días de playa. Comparte estilo con Aqva pour Homme de Bvlgari y L'Eau Majeure d'Issey.",
+      "marca": "Xerjoff"
+    },
+    {
+      "nombre": "Accento",
+      "anio": "",
+      "genero": "unisex",
+      "familia": "Floral afrutada",
+      "notas": {
+        "salida": [
+          "piña",
+          "jacinto"
+        ],
+        "corazon": [
+          "iris",
+          "jazmín"
+        ],
+        "fondo": [
+          "vainilla",
+          "almizcle",
+          "ámbar",
+          "pachulí"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Piña jugosa con flores e iris sobre vainilla: alegre, elegante y afrutado. Ideal para primavera y otoño. Comparte estilo con Aventus de Creed en su lado frutal, aunque más floral.",
+      "marca": "Xerjoff"
+    },
+    {
+      "nombre": "Alexandria II",
+      "anio": "",
+      "genero": "unisex",
+      "familia": "Amaderada",
+      "notas": {
+        "salida": [
+          "palo de rosa",
+          "lavanda",
+          "canela",
+          "manzana"
+        ],
+        "corazon": [
+          "rosa",
+          "cedro",
+          "lirio de los valles"
+        ],
+        "fondo": [
+          "oud",
+          "ámbar",
+          "sándalo",
+          "vainilla",
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "Parfum"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche",
+        "eventos formales"
+      ],
+      "descripcion": "Lavanda, rosa y oud suavizados con vainilla: lujoso, aterciopelado y muy majestuoso. Ideal para noches de invierno y ocasiones especiales. Comparte estilo con Oud Wood de Tom Ford y Layton de Parfums de Marly.",
+      "marca": "Xerjoff"
+    },
+    {
+      "nombre": "Casamorati Mefisto",
+      "anio": "",
+      "genero": "masculino",
+      "familia": "Cítrica",
+      "notas": {
+        "salida": [
+          "limón",
+          "bergamota",
+          "lavanda"
+        ],
+        "corazon": [],
+        "fondo": [
+          "almizcle",
+          "maderas"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Cítricos y lavanda muy limpios: una colonia italiana elegante y clásica. Ideal para primavera, verano y la oficina. Comparte estilo con Eau Sauvage y Neroli Portofino.",
+      "marca": "Xerjoff"
+    },
+    {
+      "nombre": "Erba Pura",
+      "anio": 2019,
+      "genero": "unisex",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "naranja de Sicilia",
+          "limón",
+          "bergamota"
+        ],
+        "corazon": [
+          "frutas"
+        ],
+        "fondo": [
+          "almizcle blanco",
+          "vainilla",
+          "ámbar"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Una ensalada de frutas jugosas sobre almizcle y vainilla: dulce, luminoso y de estela enorme. Funciona todo el año. Ha inspirado a Philos Pura de Maison Alhambra y se parece a Amber Oud Gold Edition.",
+      "marca": "Xerjoff"
+    },
+    {
+      "nombre": "Lira",
+      "anio": "",
+      "genero": "femenino",
+      "familia": "Gourmand",
+      "notas": {
+        "salida": [
+          "naranja sanguina",
+          "lavanda",
+          "bergamota"
+        ],
+        "corazon": [
+          "canela",
+          "regaliz",
+          "jazmín"
+        ],
+        "fondo": [
+          "caramelo",
+          "vainilla",
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Naranja, caramelo y lavanda: un gourmand cálido y luminoso, dulce sin ser pesado. Ideal para otoño e invierno. Comparte estilo con Libre de Yves Saint Laurent y Bonbon de Viktor&Rolf.",
+      "marca": "Xerjoff"
+    },
+    {
+      "nombre": "Naxos",
+      "anio": 2015,
+      "genero": "masculino",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "bergamota",
+          "lavanda",
+          "limón"
+        ],
+        "corazon": [
+          "miel",
+          "canela",
+          "jazmín"
+        ],
+        "fondo": [
+          "tabaco",
+          "haba tonka",
+          "vainilla"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche",
+        "eventos formales"
+      ],
+      "descripcion": "Miel, tabaco y lavanda sobre vainilla: un ambarado dorado, dulce y muy elegante. Ideal para otoño e invierno, en cenas y eventos. Comparte estilo con Tobacco Vanille de Tom Ford y Herod de Parfums de Marly.",
+      "marca": "Xerjoff"
+    },
+    {
+      "nombre": "Torino21",
+      "anio": 2021,
+      "genero": "unisex",
+      "familia": "Aromática",
+      "notas": {
+        "salida": [
+          "menta",
+          "limón"
+        ],
+        "corazon": [
+          "albahaca"
+        ],
+        "fondo": [
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "verano"
+      ],
+      "ocasiones": [
+        "diario"
+      ],
+      "descripcion": "Menta helada, limón y hierbas: frescura pura, como un mojito sin azúcar. Pensado para el calor intenso. Comparte estilo con Sedley de Parfums de Marly.",
+      "marca": "Xerjoff"
+    }
+  ]
+}

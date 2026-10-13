@@ -234,6 +234,65 @@ function filaNotas(titulo, notas) {
     : "";
 }
 
+/* ===== Imagen de referencia ===== */
+const COLORES_FAMILIA = {
+  "Amaderada": "#8a6a4a", "Aromática": "#7d8f6a", "Fougère": "#6f8a7a", "Cítrica": "#d9ae3c",
+  "Acuática": "#5f9cbf", "Floral": "#d98fa6", "Floral afrutada": "#e07f7f", "Chipre": "#8f8150",
+  "Ambarada": "#c27a32", "Gourmand": "#8b4f3a", "Cuero": "#5b3a2a", "Almizclada": "#cbbcae", "Especiada": "#b4502e",
+};
+
+function hashTexto(s) {
+  let h = 0;
+  for (const c of s) h = (h * 31 + c.codePointAt(0)) >>> 0;
+  return h;
+}
+
+function iniciales(nombre) {
+  const palabras = nombre.replace(/[^\p{L}\p{N} ]/gu, " ").split(/\s+/).filter(Boolean);
+  return (palabras.length > 1 ? palabras[0][0] + palabras[1][0] : (palabras[0] || "?").slice(0, 2)).toUpperCase();
+}
+
+function frasco(p) {
+  // Ilustración del frasco: la forma sale del nombre y el color de la familia olfativa.
+  const color = COLORES_FAMILIA[p.familia] || "#a57f45";
+  const forma = hashTexto(p.id) % 4;
+  const g = `g-${p.id}`;
+  const cuerpos = [
+    `<rect x="14" y="34" width="52" height="70" rx="7"/>`,
+    `<ellipse cx="40" cy="72" rx="30" ry="32"/>`,
+    `<rect x="22" y="30" width="36" height="76" rx="4"/>`,
+    `<path d="M18 40 L28 32 H52 L62 40 V96 L52 106 H28 L18 96 Z"/>`,
+  ];
+  const tapas = [
+    `<rect x="29" y="8" width="22" height="20" rx="3"/><rect x="34" y="27" width="12" height="8"/>`,
+    `<circle cx="40" cy="22" r="11"/><rect x="35" y="31" width="10" height="9"/>`,
+    `<rect x="31" y="4" width="18" height="22" rx="2"/><rect x="35" y="25" width="10" height="6"/>`,
+    `<path d="M30 10 H50 L54 26 H26 Z"/><rect x="35" y="25" width="10" height="8"/>`,
+  ];
+  return `<svg class="frasco" viewBox="0 0 80 112" role="img" aria-label="Ilustración de ${esc(p.nombre)}">
+    <defs><linearGradient id="${g}" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="${color}" stop-opacity=".55"/><stop offset="1" stop-color="${color}"/>
+    </linearGradient></defs>
+    <g fill="#1d1915">${tapas[forma]}</g>
+    <g fill="url(#${g})" stroke="#1d1915" stroke-opacity=".25">${cuerpos[forma]}</g>
+    <rect x="22" y="40" width="5" height="44" rx="2.5" fill="#fff" opacity=".35"/>
+    <rect x="27" y="62" width="26" height="18" rx="2" fill="#fffcf7" opacity=".9"/>
+    <text x="40" y="75" text-anchor="middle" font-family="Cormorant Garamond, serif" font-size="11" fill="#1d1915">${esc(iniciales(p.nombre))}</text>
+  </svg>`;
+}
+
+function imagenPerfume(p) {
+  const ilustracion = frasco(p);
+  if (!p.imagen) return `<div class="perfume-imagen">${ilustracion}</div>`;
+  return `<div class="perfume-imagen"><img src="${esc(p.imagen)}" alt="Frasco de ${esc(p.nombre)}" loading="lazy" referrerpolicy="no-referrer"
+    onerror="this.replaceWith(this.nextElementSibling.content.cloneNode(true))"><template>${ilustracion}</template></div>`;
+}
+
+function enlaceFotos(p) {
+  const q = encodeURIComponent(`${p.marca} ${p.nombre} perfume`);
+  return `<a class="ver-fotos" href="https://www.google.com/search?tbm=isch&q=${q}" target="_blank" rel="noopener">Ver fotos ↗</a>`;
+}
+
 function tarjetaPerfume(p, { mostrarMarca = false } = {}) {
   const meta = [p.anio, mayus(p.genero || ""), p.familia].filter(Boolean).map(esc).join(" · ");
   const n = p.notas;
@@ -243,9 +302,13 @@ function tarjetaPerfume(p, { mostrarMarca = false } = {}) {
   return `
   <article class="perfume" id="p-${p.id}">
     <header class="perfume-cabeza">
-      ${mostrarMarca ? `<a class="perfume-marca" href="#/marca/${p.slugMarca}">${esc(p.marca)}</a>` : ""}
-      <h3 class="perfume-nombre">${esc(p.nombre)}</h3>
-      <p class="perfume-meta">${meta}</p>
+      ${imagenPerfume(p)}
+      <div class="perfume-titulo">
+        ${mostrarMarca ? `<a class="perfume-marca" href="#/marca/${p.slugMarca}">${esc(p.marca)}</a>` : ""}
+        <h3 class="perfume-nombre">${esc(p.nombre)}</h3>
+        <p class="perfume-meta">${meta}</p>
+        ${enlaceFotos(p)}
+      </div>
     </header>
     <p class="perfume-desc">${esc(p.descripcion || "")}</p>
     <dl class="piramide">${piramide || `<div class="nota-fila"><dt>Notas</dt><dd class="tenue">Sin confirmar</dd></div>`}</dl>
