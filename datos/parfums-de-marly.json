@@ -35,6 +35,41 @@
       "marca": "Parfums de Marly"
     },
     {
+      "nombre": "Carlisle",
+      "anio": 2015,
+      "genero": "unisex",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "manzana verde",
+          "nuez moscada",
+          "azafrán"
+        ],
+        "corazon": [
+          "rosa"
+        ],
+        "fondo": [
+          "vainilla",
+          "haba tonka",
+          "pachulí",
+          "opopónaco"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche",
+        "eventos formales"
+      ],
+      "descripcion": "Manzana, azafrán y vainilla resinosa: denso, dulce y muy invernal. Ideal para noches frías y ocasiones especiales. Comparte estilo con Layton y Tobacco Vanille, más afrutado.",
+      "marca": "Parfums de Marly"
+    },
+    {
       "nombre": "Delina",
       "anio": 2017,
       "genero": "femenino",
@@ -69,6 +104,40 @@
         "eventos formales"
       ],
       "descripcion": "Rosa turca y lichi: romántico, jugoso y muy femenino. Ideal para primavera y otoño. Comparte estilo con Coco Mademoiselle e Idôle.",
+      "marca": "Parfums de Marly"
+    },
+    {
+      "nombre": "Greenley",
+      "anio": 2020,
+      "genero": "masculino",
+      "familia": "Aromática",
+      "notas": {
+        "salida": [
+          "manzana verde",
+          "bergamota",
+          "mandarina"
+        ],
+        "corazon": [
+          "cachemira"
+        ],
+        "fondo": [
+          "cedro",
+          "pachulí",
+          "musgo de roble"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Manzana verde crujiente y cítricos sobre maderas suaves: verde, alegre y luminoso. Ideal para primavera, verano y el día a día. Comparte estilo con Hugo Man y Explorer de Montblanc, en versión más pulida.",
       "marca": "Parfums de Marly"
     },
     {
@@ -144,6 +213,38 @@
       "marca": "Parfums de Marly"
     },
     {
+      "nombre": "Oriana",
+      "anio": "",
+      "genero": "femenino",
+      "familia": "Gourmand",
+      "notas": {
+        "salida": [
+          "frambuesa",
+          "bergamota"
+        ],
+        "corazon": [
+          "azahar"
+        ],
+        "fondo": [
+          "vainilla",
+          "malvavisco"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Frambuesa y azahar sobre una vainilla de malvavisco: dulce, tierno y muy femenino. Ideal para otoño e invierno y citas. Comparte estilo con Love, Don't Be Shy de Kilian y Adelina de Mykonos.",
+      "marca": "Parfums de Marly"
+    },
+    {
       "nombre": "Pegasus",
       "anio": 2011,
       "genero": "masculino",
@@ -176,6 +277,101 @@
         "citas"
       ],
       "descripcion": "Almendra y vainilla con heliotropo: cremoso, elegante y reconfortante. Ideal para otoño e invierno. Comparte estilo con L'Homme Idéal y Pi.",
+      "marca": "Parfums de Marly"
+    },
+    {
+      "nombre": "Percival",
+      "anio": 2018,
+      "genero": "masculino",
+      "familia": "Aromática",
+      "notas": {
+        "salida": [
+          "lavanda",
+          "bergamota"
+        ],
+        "corazon": [
+          "geranio"
+        ],
+        "fondo": [
+          "ambroxán",
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Lavanda limpia y ambroxán con un aire de ropa recién lavada: fresco, elegante y muy cómodo. Ideal para la oficina y el día en primavera, verano y otoño. Comparte estilo con Luna Rossa Carbon de Prada y Legend Spirit de Montblanc.",
+      "marca": "Parfums de Marly"
+    },
+    {
+      "nombre": "Sedley",
+      "anio": 2019,
+      "genero": "masculino",
+      "familia": "Aromática",
+      "notas": {
+        "salida": [
+          "menta",
+          "bergamota"
+        ],
+        "corazon": [
+          "lavanda"
+        ],
+        "fondo": [
+          "maderas",
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "verano"
+      ],
+      "ocasiones": [
+        "diario"
+      ],
+      "descripcion": "Menta fresca y cítricos con un fondo limpio: huele a agua helada y aire libre. Pensado para los días de mucho calor. Comparte estilo con Eau d'Orange Verte de Hermès y Torino21 de Xerjoff.",
+      "marca": "Parfums de Marly"
+    },
+    {
+      "nombre": "Valaya",
+      "anio": "",
+      "genero": "femenino",
+      "familia": "Almizclada",
+      "notas": {
+        "salida": [
+          "aldehídos"
+        ],
+        "corazon": [
+          "azahar"
+        ],
+        "fondo": [
+          "almizcle",
+          "vainilla"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Almizcle blanco y aldehídos con un toque de azahar: limpio, luminoso y sofisticado, como seda recién planchada. Ideal para la oficina y el día. Comparte estilo con 724 de Maison Francis Kurkdjian y Blanche de Byredo.",
       "marca": "Parfums de Marly"
     }
   ]

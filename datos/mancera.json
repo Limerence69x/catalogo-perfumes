@@ -1,0 +1,271 @@
+{
+  "marca": "Mancera",
+  "tipo": "Nicho",
+  "estilo": "Casa francesa de perfumes potentes y directos: vainillas, tabacos, rosas y frutales de gran duración.",
+  "perfumes": [
+    {
+      "nombre": "Amore Caffe",
+      "anio": "",
+      "genero": "unisex",
+      "familia": "Gourmand",
+      "notas": {
+        "salida": [
+          "café"
+        ],
+        "corazon": [],
+        "fondo": [
+          "vainilla"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Café tostado con vainilla: cálido, goloso y acogedor como una cafetería en invierno. Ideal para otoño e invierno. Comparte estilo con Coffee Break de Maison Margiela y Khamrah Qahwa.",
+      "marca": "Mancera"
+    },
+    {
+      "nombre": "Cedrat Boise",
+      "anio": 2011,
+      "genero": "unisex",
+      "familia": "Chipre",
+      "notas": {
+        "salida": [
+          "cidra",
+          "limón de Sicilia",
+          "especias",
+          "grosella negra"
+        ],
+        "corazon": [
+          "frutas",
+          "jazmín",
+          "pachulí"
+        ],
+        "fondo": [
+          "cuero",
+          "sándalo",
+          "vainilla",
+          "musgo de roble",
+          "almizcle blanco"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina",
+        "citas"
+      ],
+      "descripcion": "Limón, grosella negra y cuero suave sobre maderas: afrutado, fresco y muy versátil. Funciona en casi cualquier época salvo el frío extremo. Comparte estilo con Aventus de Creed y Club de Nuit Intense Man.",
+      "marca": "Mancera"
+    },
+    {
+      "nombre": "Coco Vanille",
+      "anio": "",
+      "genero": "femenino",
+      "familia": "Gourmand",
+      "notas": {
+        "salida": [
+          "coco"
+        ],
+        "corazon": [],
+        "fondo": [
+          "vainilla"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Coco cremoso con vainilla: playero, dulce y vacacional. Ideal para primavera y verano. Comparte estilo con Beach Walk de Maison Margiela y Le Beau.",
+      "marca": "Mancera"
+    },
+    {
+      "nombre": "Instant Crush",
+      "anio": "",
+      "genero": "unisex",
+      "familia": "Ambarada",
+      "notas": {
+        "salida": [
+          "azafrán",
+          "jengibre",
+          "mandarina",
+          "bergamota"
+        ],
+        "corazon": [
+          "rosa",
+          "ámbar"
+        ],
+        "fondo": [
+          "vainilla",
+          "sándalo",
+          "almizcle blanco",
+          "musgo de roble"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Azafrán, ámbar y vainilla en un perfume aireado y dulce, de gran estela. Funciona todo el año. Comparte estilo con Baccarat Rouge 540 y Club de Nuit Untold.",
+      "marca": "Mancera"
+    },
+    {
+      "nombre": "Lemon Line",
+      "anio": "",
+      "genero": "unisex",
+      "familia": "Cítrica",
+      "notas": {
+        "salida": [
+          "limón"
+        ],
+        "corazon": [
+          "jengibre"
+        ],
+        "fondo": [
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "verano"
+      ],
+      "ocasiones": [
+        "diario"
+      ],
+      "descripcion": "Limón muy vivo con jengibre: una frescura chispeante y sencilla para el calor. Ideal para verano. Comparte estilo con Bergamote 22 de Le Labo y Mugler Cologne.",
+      "marca": "Mancera"
+    },
+    {
+      "nombre": "Red Tobacco",
+      "anio": 2017,
+      "genero": "unisex",
+      "familia": "Especiada",
+      "notas": {
+        "salida": [
+          "canela",
+          "azafrán",
+          "nuez moscada",
+          "incienso"
+        ],
+        "corazon": [
+          "tabaco",
+          "pachulí",
+          "jazmín"
+        ],
+        "fondo": [
+          "vainilla",
+          "oud",
+          "ámbar",
+          "sándalo",
+          "haba tonka"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "noche"
+      ],
+      "descripcion": "Tabaco, canela y oud con vainilla: oscuro, especiado y de muchísima duración. Ideal para noches de invierno. Comparte estilo con Tobacco Vanille, Herod y Amber Oud Tobacco Edition.",
+      "marca": "Mancera"
+    },
+    {
+      "nombre": "Roses Vanille",
+      "anio": "",
+      "genero": "femenino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "limón"
+        ],
+        "corazon": [
+          "rosa"
+        ],
+        "fondo": [
+          "vainilla",
+          "azúcar",
+          "cedro",
+          "almizcle"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Rosa con vainilla azucarada: romántico, dulce y fácil de querer. Ideal para primavera y otoño. Comparte estilo con Delina de Parfums de Marly y La Nuit Trésor.",
+      "marca": "Mancera"
+    },
+    {
+      "nombre": "Tonka Cola",
+      "anio": "",
+      "genero": "unisex",
+      "familia": "Gourmand",
+      "notas": {
+        "salida": [
+          "refresco de cola"
+        ],
+        "corazon": [],
+        "fondo": [
+          "haba tonka"
+        ]
+      },
+      "concentraciones": [
+        "EDP"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario"
+      ],
+      "descripcion": "Refresco de cola burbujeante con haba tonka: divertido, dulce y diferente. Ideal para el día a día informal. Comparte espíritu juguetón con Bonbon y 212 VIP Men.",
+      "marca": "Mancera"
+    }
+  ]
+}

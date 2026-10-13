@@ -1,0 +1,312 @@
+{
+  "marca": "Mykonos",
+  "tipo": "Nicho",
+  "estilo": "Casa indonesia de extractos modernos y virales: frescos, frutales y gourmands.",
+  "perfumes": [
+    {
+      "nombre": "Adelina",
+      "anio": "",
+      "genero": "femenino",
+      "familia": "Gourmand",
+      "notas": {
+        "salida": [
+          "naranja confitada",
+          "bergamota",
+          "naranja"
+        ],
+        "corazon": [
+          "azahar",
+          "azúcar de vainilla",
+          "grosella negra",
+          "frambuesa"
+        ],
+        "fondo": [
+          "malvavisco",
+          "caramelo",
+          "almizcle blanco",
+          "ambreta",
+          "crema"
+        ]
+      },
+      "concentraciones": [
+        "Extrait"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Naranja confitada, malvavisco y caramelo: dulce, cremoso y muy goloso. Ideal para otoño e invierno. Comparte estilo con Oriana de Parfums de Marly y Love, Don't Be Shy de Kilian.",
+      "marca": "Mykonos"
+    },
+    {
+      "nombre": "Dreamscape",
+      "anio": "",
+      "genero": "unisex",
+      "familia": "Floral afrutada",
+      "notas": {
+        "salida": [
+          "mango",
+          "limón",
+          "ruibarbo"
+        ],
+        "corazon": [
+          "jengibre",
+          "pimienta rosa",
+          "jazmín",
+          "violeta",
+          "praliné"
+        ],
+        "fondo": [
+          "cedro",
+          "ámbar",
+          "musgo",
+          "haba tonka"
+        ]
+      },
+      "concentraciones": [
+        "Extrait"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Mango, limón y jengibre con un toque de praliné: tropical, alegre y algo dulce. Ideal para primavera y verano. Comparte estilo con Un Jardin sur le Nil, en versión más dulce.",
+      "marca": "Mykonos"
+    },
+    {
+      "nombre": "Empire",
+      "anio": 2026,
+      "genero": "unisex",
+      "familia": "Cítrica",
+      "notas": {
+        "salida": [
+          "lima",
+          "mandarina",
+          "bergamota",
+          "frutas tropicales"
+        ],
+        "corazon": [
+          "agua de coco",
+          "jazmín",
+          "jengibre",
+          "naranja"
+        ],
+        "fondo": [
+          "almizcle blanco",
+          "haba tonka",
+          "pachulí"
+        ]
+      },
+      "concentraciones": [
+        "Extrait"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario"
+      ],
+      "descripcion": "Lima y frutas tropicales con un toque de coco: veraniego, luminoso y desenfadado. Ideal para el calor y las vacaciones. Comparte estilo con Le Beau y Dreamscape.",
+      "marca": "Mykonos"
+    },
+    {
+      "nombre": "Glitch",
+      "anio": "",
+      "genero": "unisex",
+      "familia": "Aromática",
+      "notas": {
+        "salida": [
+          "notas ozónicas",
+          "pimienta roja",
+          "jengibre"
+        ],
+        "corazon": [
+          "lirio de los valles",
+          "cedro",
+          "ylang-ylang"
+        ],
+        "fondo": [
+          "maderas",
+          "almizcle",
+          "ámbar"
+        ]
+      },
+      "concentraciones": [
+        "Extrait"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Aire ozónico, pimienta y jengibre sobre maderas: fresco, limpio y moderno. Ideal para primavera y verano. Comparte estilo con Dylan Blue y Explorer de Montblanc.",
+      "marca": "Mykonos"
+    },
+    {
+      "nombre": "Inception",
+      "anio": 2025,
+      "genero": "unisex",
+      "familia": "Cítrica",
+      "notas": {
+        "salida": [
+          "limón",
+          "bergamota",
+          "jengibre",
+          "naranja"
+        ],
+        "corazon": [
+          "té negro",
+          "neroli",
+          "canela"
+        ],
+        "fondo": [
+          "almizcle",
+          "guayaco",
+          "cedro"
+        ]
+      },
+      "concentraciones": [
+        "Extrait"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño"
+      ],
+      "ocasiones": [
+        "diario",
+        "oficina"
+      ],
+      "descripcion": "Cítricos, jengibre y té negro sobre maderas: fresco, especiado y elegante. Ideal para primavera, verano y la oficina. Comparte estilo con Game of Spades Full House.",
+      "marca": "Mykonos"
+    },
+    {
+      "nombre": "Sansa",
+      "anio": "",
+      "genero": "femenino",
+      "familia": "Floral",
+      "notas": {
+        "salida": [
+          "durazno",
+          "osmanthus",
+          "té negro"
+        ],
+        "corazon": [
+          "rosa",
+          "tuberosa",
+          "narciso",
+          "caramelo"
+        ],
+        "fondo": [
+          "raíz de iris",
+          "chocolate negro",
+          "cedro",
+          "vetiver"
+        ]
+      },
+      "concentraciones": [
+        "Extrait"
+      ],
+      "temporadas": [
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "citas",
+        "noche"
+      ],
+      "descripcion": "Durazno y osmanthus con flores blancas y chocolate negro: floral, sedoso y algo oscuro. Ideal para otoño, invierno y la noche. Comparte estilo con Good Girl de Carolina Herrera, más afrutado.",
+      "marca": "Mykonos"
+    },
+    {
+      "nombre": "Sorrento",
+      "anio": "",
+      "genero": "unisex",
+      "familia": "Cítrica",
+      "notas": {
+        "salida": [
+          "pomelo",
+          "jengibre",
+          "bergamota",
+          "mandarina"
+        ],
+        "corazon": [
+          "neroli",
+          "notas acuáticas"
+        ],
+        "fondo": [
+          "cedro",
+          "almizcle",
+          "ámbar"
+        ]
+      },
+      "concentraciones": [
+        "Extrait"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano"
+      ],
+      "ocasiones": [
+        "diario"
+      ],
+      "descripcion": "Pomelo y jengibre efervescentes: fresco, burbujeante y veraniego. Ideal para el calor. Comparte estilo con Game of Spades Emerald y Lemon Line de Mancera.",
+      "marca": "Mykonos"
+    },
+    {
+      "nombre": "Untamed",
+      "anio": 2025,
+      "genero": "unisex",
+      "familia": "Almizclada",
+      "notas": {
+        "salida": [
+          "lino",
+          "grosella negra",
+          "limón",
+          "bergamota"
+        ],
+        "corazon": [
+          "almizcle",
+          "coco",
+          "violeta",
+          "praliné",
+          "jazmín"
+        ],
+        "fondo": [
+          "cachemira",
+          "cedro",
+          "vetiver",
+          "ámbar",
+          "vainilla"
+        ]
+      },
+      "concentraciones": [
+        "Extrait"
+      ],
+      "temporadas": [
+        "primavera",
+        "verano",
+        "otoño",
+        "invierno"
+      ],
+      "ocasiones": [
+        "diario",
+        "citas"
+      ],
+      "descripcion": "Almizcle de ropa limpia y maderas con un toque cremoso: suave, terroso y cercano a la piel. Funciona todo el año. Comparte estilo con Another 13 y Lazy Sunday Morning.",
+      "marca": "Mykonos"
+    }
+  ]
+}
